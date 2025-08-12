@@ -1,0 +1,161 @@
+{
+  "id": "life",
+  "name": "Life Operating System",
+  "description": "Top-level index for all personal and professional objectives, organized using the Cosmos PMO hierarchy",
+  "type": "root",
+  "version": "1.0.0",
+  "created": "2025-01-01T00:00:00Z",
+  "updated": "2025-01-12T00:00:00Z",
+  "objectives": [
+    {
+      "id": "thought-leadership",
+      "name": "Thought Leadership",
+      "description": "Establish expertise and influence in productivity and technology domains",
+      "status": "active",
+      "keyResults": [
+        "Publish 2 books by end of 2025",
+        "Reach 10K newsletter subscribers",
+        "Speaking at 5 major conferences"
+      ],
+      "initiatives": [
+        {
+          "id": "content-creation",
+          "name": "Content Creation",
+          "description": "Systematic production of high-value content across multiple mediums",
+          "status": "active",
+          "projects": [
+            {
+              "id": "tmm",
+              "name": "The Momentum Method",
+              "path": "projects/tmm/",
+              "status": "active",
+              "progress": 0.15
+            },
+            {
+              "id": "newsletter",
+              "name": "Weekly Newsletter",
+              "path": "projects/newsletter/",
+              "status": "planning",
+              "progress": 0.0
+            }
+          ]
+        },
+        {
+          "id": "speaking",
+          "name": "Public Speaking",
+          "description": "Conference talks and workshop facilitation",
+          "status": "planning",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "id": "revenue-growth",
+      "name": "Revenue Growth",
+      "description": "Build sustainable income streams through products and services",
+      "status": "active",
+      "keyResults": [
+        "$500K ARR by Q4 2025",
+        "3 revenue streams",
+        "1000 paying customers"
+      ],
+      "initiatives": [
+        {
+          "id": "product-development",
+          "name": "Product Development",
+          "description": "SaaS products and digital tools",
+          "status": "active",
+          "projects": [
+            {
+              "id": "careerops",
+              "name": "CareerOps Platform",
+              "path": "projects/careerops/",
+              "status": "active",
+              "progress": 0.30
+            },
+            {
+              "id": "momentum-app",
+              "name": "Momentum Tracker App",
+              "path": "projects/momentum-app/",
+              "status": "planning",
+              "progress": 0.0
+            }
+          ]
+        },
+        {
+          "id": "consulting",
+          "name": "Consulting Services",
+          "description": "High-value advisory and implementation services",
+          "status": "on-hold",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "id": "personal-mastery",
+      "name": "Personal Mastery",
+      "description": "Continuous improvement in health, skills, and relationships",
+      "status": "active",
+      "keyResults": [
+        "Complete triathlon by September 2025",
+        "Learn 3 new technologies",
+        "Maintain work-life harmony"
+      ],
+      "initiatives": [
+        {
+          "id": "health-fitness",
+          "name": "Health & Fitness",
+          "description": "Physical and mental wellness optimization",
+          "status": "active",
+          "projects": [
+            {
+              "id": "triathlon-training",
+              "name": "Triathlon Training Program",
+              "path": "projects/triathlon/",
+              "status": "planning",
+              "progress": 0.0
+            }
+          ]
+        },
+        {
+          "id": "skill-development",
+          "name": "Skill Development",
+          "description": "Technical and soft skill enhancement",
+          "status": "active",
+          "projects": [
+            {
+              "id": "rust-mastery",
+              "name": "Rust Programming Mastery",
+              "path": "projects/rust-mastery/",
+              "status": "planning",
+              "progress": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "totalProjects": 7,
+    "activeProjects": 2,
+    "planningProjects": 5,
+    "completedProjects": 0,
+    "overallProgress": 0.225,
+    "lastReview": "2025-01-12T00:00:00Z",
+    "nextReview": "2025-02-01T00:00:00Z"
+  },
+  "config": {
+    "reviewCycle": "monthly",
+    "planningHorizon": "quarterly",
+    "trackingGranularity": "weekly",
+    "defaultBoardColumns": ["backlog", "in-progress", "blocked", "done"]
+  },
+  "tags": [
+    "personal-development",
+    "productivity",
+    "entrepreneurship",
+    "saas",
+    "writing",
+    "health"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Project Node",
+  "description": "Project definition in the PMO hierarchy",
+  "type": "object",
+  "required": ["id", "name", "type", "status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique project identifier"
+    },
+    "name": {
+      "type": "string",
+      "description": "Project display name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Project purpose and goals"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["project", "initiative", "objective"],
+      "description": "Hierarchical level"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planning", "active", "on-hold", "completed", "archived"],
+      "description": "Current project status"
+    },
+    "parentId": {
+      "type": "string",
+      "description": "Parent initiative or objective ID"
+    },
+    "initiativeId": {
+      "type": "string",
+      "description": "Parent initiative (pillar)"
+    },
+    "objectiveId": {
+      "type": "string",
+      "description": "Aligned objective"
+    },
+    "boards": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Board IDs associated with this project"
+    },
+    "milestones": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "date": {"type": "string", "format": "date"},
+          "status": {"type": "string", "enum": ["pending", "completed", "missed"]}
+        }
+      }
+    },
+    "metrics": {
+      "type": "object",
+      "properties": {
+        "completedTasks": {"type": "number"},
+        "totalTasks": {"type": "number"},
+        "velocity": {"type": "number"},
+        "health": {
+          "type": "string",
+          "enum": ["green", "yellow", "red"]
+        }
+      }
+    },
+    "team": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {"type": "string"},
+          "role": {"type": "string"},
+          "allocation": {"type": "number", "description": "Percentage allocation"}
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "created": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "startDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "endDate": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}

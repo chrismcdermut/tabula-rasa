@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Task (Quark)",
+  "description": "Atomic unit of work in the PMO system",
+  "type": "object",
+  "required": ["id", "title", "status", "type"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique identifier for the task"
+    },
+    "title": {
+      "type": "string",
+      "description": "Brief description of the task"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description and acceptance criteria"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["backlog", "in-progress", "blocked", "done"],
+      "description": "Current status of the task"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["quark", "atom", "molecule"],
+      "description": "Hierarchical type of the work item"
+    },
+    "assignee": {
+      "type": "string",
+      "description": "Person responsible for the task"
+    },
+    "priority": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "critical"],
+      "default": "medium"
+    },
+    "labels": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Tags for categorization"
+    },
+    "parentId": {
+      "type": "string",
+      "description": "ID of parent atom or molecule"
+    },
+    "blockedBy": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "IDs of blocking tasks"
+    },
+    "created": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "due": {
+      "type": "string",
+      "format": "date"
+    },
+    "effort": {
+      "type": "number",
+      "description": "Estimated effort in hours"
+    }
+  }
+}

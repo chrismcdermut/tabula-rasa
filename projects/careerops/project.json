@@ -1,0 +1,55 @@
+{
+  "id": "careerops",
+  "name": "CareerOps Platform",
+  "description": "SaaS platform for managing career development with AI-assisted planning, skill tracking, and opportunity matching.",
+  "type": "project",
+  "status": "active",
+  "initiativeId": "product-development",
+  "objectiveId": "revenue-growth",
+  "boards": ["careerops-board"],
+  "milestones": [
+    {
+      "name": "MVP Launch",
+      "date": "2025-02-15",
+      "status": "pending"
+    },
+    {
+      "name": "Beta User Onboarding (100 users)",
+      "date": "2025-03-01",
+      "status": "pending"
+    },
+    {
+      "name": "Series A Ready",
+      "date": "2025-06-01",
+      "status": "pending"
+    }
+  ],
+  "metrics": {
+    "completedTasks": 27,
+    "totalTasks": 89,
+    "velocity": 8.5,
+    "health": "yellow"
+  },
+  "team": [
+    {
+      "name": "Chris McDermut",
+      "role": "Tech Lead",
+      "allocation": 80
+    },
+    {
+      "name": "Sarah Chen",
+      "role": "Frontend Dev",
+      "allocation": 100
+    },
+    {
+      "name": "Marcus Johnson",
+      "role": "Backend Dev",
+      "allocation": 100
+    }
+  ],
+  "tags": ["saas", "career-tech", "ai", "platform"],
+  "created": "2024-11-01T00:00:00Z",
+  "updated": "2025-01-12T00:00:00Z",
+  "startDate": "2024-11-01",
+  "endDate": "2025-12-31"
+}
