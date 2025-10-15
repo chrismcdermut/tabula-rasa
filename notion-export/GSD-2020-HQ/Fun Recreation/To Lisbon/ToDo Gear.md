@@ -1,0 +1,28 @@
+# ToDo: Gear
+
+- [ ]  Bike
+    - [ ]  Order Stuff
+        - [x]  crank set
+        - [x]  cassette
+        - [x]  tires
+        - [x]  paul components neo retro brakes
+        - [ ]  brake pads
+        - [ ]  chains
+        - [x]  bar tape
+        - [x]  bottom bracket
+        - [ ]  tubes
+    - [x]  Overhaul bike
+        - [x]  bottom bracket
+        - [x]  new crankset
+        - [x]  new derailleur
+        - [x]  new housing/cables
+        - [x]  new brakes
+        - [x]  new bar tape
+        - [x]  new tires
+- [ ]  Computer
+- [ ]  Camera
+- [ ]  Video
+- [ ]  Kitchen
+- [ ]  Infirmiry
+- [ ]  Communication
+- [ ]

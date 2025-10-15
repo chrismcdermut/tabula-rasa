@@ -1,0 +1,42 @@
+# ToDo: Snow White
+
+- [ ]  Replace Suspension
+    - [x]  Replace front shocks
+    - [ ]  Replace Rear Shocks
+        - [ ]  Left Shock
+        - [ ]  Right Shock
+    - [ ]  Rear left sway bar bracket
+        - [ ]  buy bracket
+        - [ ]  install bracket
+    - [ ]  Replace Springs
+        - [ ]  front left coil
+        - [ ]  front right coil
+        - [ ]  rear right coil
+        - [ ]  rear left coil
+    - [ ]  Replace caster bushings
+        - [ ]  pull out
+        - [ ]  install
+        - [ ]  reinstall
+    - [ ]  Get alignment
+- [ ]  Replace windshield
+- [ ]  Windshield washers
+- [ ]  Hand throttle
+- [ ]  Fix winch
+    - [ ]  winch line
+    - [ ]  winch power
+- [ ]  Fix Door gaskets
+    - [ ]  front passenger
+    - [ ]  front driver
+    - [ ]  rear passenger
+    - [ ]  rear driver
+- [ ]  Replace radio
+- [ ]  Tighten running board
+- [ ]  Fix driver door lock
+- [ ]  Fix driver lock button activation
+- [ ]  Fix passenger door lock
+- [ ]  Fix driver door lock
+- [ ]  Fix console fridge
+- [ ]  Fix ash tray
+- [ ]  Dash button cover
+- [ ]  Front/rear mud flaps
+- [ ]  Fix passenger rear door seam

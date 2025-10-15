@@ -1,0 +1,7 @@
+# Written Reference
+
+I owe some of my most profound personal development to Asriel's guidance, leadership, and support. His weekly Toastmaster's sessions at Vacasa was a valuable opportunity to progress skills in conversation, speech, and presentation, not to mention, an appreciated respite from the startup-grind.
+
+ I regularly attended his Toastmaster meetings along with ten+ participants who practiced table topics, PREP (point, reason, example, point) talks and prepared speeches all under Asriel's stewardship and encouragement. Asriel personally arranged a varied list of 50+ questions, answers, and topics as prompts for the group, recorded each speech time and produced visual time cue cards to faciliate successful meetings.
+
+Asriel's most exceptional representation of leadership comes out in the extra time he lends to help his colleagues succeed. On multiple occasions, Asriel joined ad-hoc meetings to observe practice speeches and provided content reviews in our online forum. Last but not least, Asriel joined a weeknight Moth Story-slam, saved seats, intently listened and loudly cheered for my first Moth story for an audience over 100 people. Working with Asriel is a pleasure and you will be delighted to see him emcee an event and deliver a well crafted, paced, and relatable story or speech.

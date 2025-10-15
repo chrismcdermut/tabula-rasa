@@ -1,0 +1,7 @@
+# customer empathy
+
+Answer: In any role, I make a point to personally explore user flows to understand the journey from a real customer’s perspective. I’ll dig into — or implement — the analytics stack to make sure we’re working from actual behavior, not assumptions. As I write this, I’m toggling through Zapier’s current checkout experience and already see an opportunity to save 44 keystrokes by implementing something like Stripe’s Link to autofill payment info. I’m always scanning for friction that can be removed.
+At Vacasa, a tech-enabled vacation rental management company, I booked a weekend at one of our own properties and even volunteered during a cleaning staff shortage just to experience the product end to end. I apply the same approach to internal tools — at both Vacasa and LegalShield, I ran workshops with my team and internal stakeholders to make sure engineers understood what we were building and why. That context helped them contribute more to testing coverage, edge cases, and design feedback.
+I also work closely with product and design to make sure we’re balancing technical feasibility with what actually makes the experience better for the user. Customer-centricity isn’t something I delegate: It’s something I model and bake into how we build.
+Company: Untitled (https://www.notion.so/2316509554a7815a9b69e9014a702793?pvs=21)
+Question 1: What does being customer-obsessed mean to you?

@@ -1,0 +1,79 @@
+﻿Project name,Status,Category,Priority,Due date,Progress,Link
+google sheets integration,TODO,BUILD/Infra,,,,
+Airtable oauth + integration,TODO,BUILD/Infra,IMPORTANT,,,
+cache layer,TODO,BUILD/Infra,,,,
+add company capture,TODO,BUILD/Infra,,,,
+excel integration,TODO,BUILD/Infra,,,,
+scraper registry/prompt/scraper agentic PRs,TODO,BUILD/Infra,,,,
+scrum groups,TODO,BUILD/Infra,,,,
+firefox release,TODO,BUILD/Infra,,,,
+microsoft sheets integration,TODO,BUILD/Infra,,,,
+Zapier-style export automation/integration,TODO,BUILD/Infra,IMPORTANT,,,
+Resume-tailoring suggestions,TODO,BUILD/Infra,IMPORTANT,,,
+AI-based job scoring or fit rating,TODO,BUILD/Infra,IMPORTANT,,,
+Custom job board support (user-defined),TODO,BUILD/Infra,IMPORTANT,,,
+fix copy paste careerops thing,TODO,BUILD/Infra,IMPORTANT,,,
+FIX EXTENSION+RERELEASE,DONE,BUILD/Infra,,,,
+Scrub linkedin,DONE,BUILD/Infra,,,,
+notion integration,DONE,BUILD/Infra,,,,
+EXT: auth for prod,DONE,BUILD/Infra,,,,
+http://careerops.io http://careerops.co http://careerops.ai redirect to careerops.com,DONE,BUILD/Infra,,,,
+CareerOps domain in AWS,DONE,BUILD/Infra,,,,
+billing + freemium/credit logic (10cap) + usage tracking,DONE,BUILD/Infra,,,,
+auth,DONE,BUILD/Infra,,,,
+careerops.* redirect to careerops.com,DONE,BUILD/Infra,,,,
+10cap free tier+ email waitlist,DONE,BUILD/Infra,IMPORTANT,,,
+Lock down backend with API key,DONE,BUILD/Infra,IMPORTANT,,,
+notion template,DOING,BUILD/Infra,"IMPORTANT, URGENT",,,
+Anon capture/page check/Billing for pro,DOING,BUILD/Infra,,,,
+job board/site prompt tailoring/review,DOING,BUILD/Infra,,,,
+landing page,DONE,GROW,,,,
+Duns number,DONE,BizOps/DevX,,,,
+TAX EIN,DONE,BizOps/DevX,,,,
+LP: loops email list,DONE,GROW,,,,
+LP: features images,DONE,GROW,,,,
+LP polish,DONE,GROW,,,,
+careerops email workspace,DONE,BizOps/DevX,,,,
+careerops email subdomain,DONE,BizOps/DevX,,,,
+decide on Resumate,TODO,BizOps/DevX,,,,
+chrome webstore listing/submit,DONE,GROW,,,,
+Neural Network → LLM Series YT,DONE,LEARN,"IMPORTANT, URGENT",,,
+LLM Survey,TODO,LEARN,"IMPORTANT, URGENT",,,
+Agent Survey,TODO,LEARN,"IMPORTANT, URGENT",,,
+Prompt Engineering Survey,TODO,LEARN,"IMPORTANT, URGENT",,,
+Transformers Paper,TODO,LEARN,"IMPORTANT, URGENT",,,
+Scaling Laws/GPT3,TODO,LEARN,"IMPORTANT, URGENT",,,
+RLHF,TODO,LEARN,"IMPORTANT, URGENT",,,
+AlphaZero/MuZero,TODO,LEARN,"IMPORTANT, URGENT",,,
+CoT,TODO,LEARN,"IMPORTANT, URGENT",,,
+ARC-Prize,TODO,LEARN,"IMPORTANT, URGENT",,,
+DeepSeek R1,TODO,LEARN,"IMPORTANT, URGENT",,,
+LLama3,TODO,LEARN,"IMPORTANT, URGENT",,,
+Den AI showcase,DONE,GROW,"IMPORTANT, URGENT",08/06/2025,,https://docs.google.com/forms/d/e/1FAIpQLSfTk7gitM7wS0GujvywmcQcTOwJa3BpqWfFmIzD4w3fgEciyg/viewform
+Launch@Berkeley,TODO,GROW,IMPORTANT,09/05/2025,,https://www.uclaunch.com/apply
+pitch boulder,DOING,GROW,"IMPORTANT, URGENT",,,https://pitchboulder.co/
+Web summit Lisbon,TODO,GROW,,,,https://websummit.com/startups/
+Boulder AI builders,TODO,GROW,"IMPORTANT, URGENT",,,https://www.boulderaibuilders.org/
+1 million cups,TODO,GROW,"IMPORTANT, URGENT",,,https://www.1millioncups.com/s/account/0014W00002AqQdnQAF/denver-co
+Denver CEO dinner,TODO,GROW,IMPORTANT,,,https://www.thunderviewceodinners.com/
+RMAIIG,TODO,GROW,,,,https://www.meetup.com/rmaiig/
+ai breakfast,TODO,GROW,IMPORTANT,,,https://aibreakfast.beehiiv.com/
+the changelog,TODO,GROW,IMPORTANT,,,https://changelog.com/
+Twilio Search Light,TODO,GROW,,09/05/2025,,https://www.twilio.com/en-us/lp/twilio-ai-startup-searchlight-2025?tab=1_2
+Lisbon AI,TODO,GROW,,,,https://lisbonai.xyz/
+CO Startup Week Pitch,TODO,GROW,IMPORTANT,08/15/2025,,https://www.costartupweek.com/
+Boulder new tech,TODO,GROW,IMPORTANT,,,https://docs.google.com/forms/d/e/1FAIpQLSes4bUYz1YhXYG1Ql4IxqKhFdIW9droukKQzRSTKEHHUZBMSQ/viewform
+Denver New Tech,TODO,GROW,,,,https://www.meetup.com/bdnewtech/
+startup CO pitch,TODO,GROW,IMPORTANT,08/20/2025,,https://startupcolorado.org/pitch-competition/
+Den Founders Meetup,TODO,GROW,,,,https://www.meetup.com/Denver-Founders-Network/
+Gemini for Founders,TODO,GROW,,09/10/2025,,https://startup.google.com/programs/gemini-founders-forum/
+Confirm GH locaiton/time,DOING,GROW,,,,
+add profile photo/company to co startup week,DOING,GROW,,,,
+do chaceh talk,DOING,GROW,,,,
+OpenAI partner startup,TODO,GROW,,,,
+Govt grant for AI,TODO,GROW,,,,
+update LP to email list,DONE,GROW,,,,
+Fix extension,DOING,GROW,,,,
+LLM Survey,DOING,LEARN,,,,https://arxiv.org/pdf/2402.06196v2
+Agent Survey,TODO,LEARN,,,,https://arxiv.org/pdf/2308.11432
+Prompt Survey,TODO,LEARN,,,,https://arxiv.org/pdf/2406.06608

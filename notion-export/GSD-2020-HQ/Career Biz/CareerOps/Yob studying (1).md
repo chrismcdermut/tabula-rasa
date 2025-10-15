@@ -1,0 +1,350 @@
+# Yob studying (1)
+
+- [x]  ICake Pass 1
+    - ICake sections
+        - [x]  **0. Algorithmic thinking**
+            - **Readings**
+                - [**Big O Notation**](https://www.interviewcake.com/article/javascript/big-o-notation-time-and-space-complexity?course=fc1&section=algorithmic-thinking)
+                - [**Data Structures**](https://www.interviewcake.com/article/javascript/data-structures-coding-interview?course=fc1&section=algorithmic-thinking)
+                - [**Logarithms**](https://www.interviewcake.com/article/javascript/logarithms?course=fc1&section=algorithmic-thinking)
+        - [x]  1. **Array and string manipulation**
+            - Readings
+                - [**Array**](https://www.interviewcake.com/concept/javascript/array?course=fc1&section=array-and-string-manipulation)
+                - [**Array Slicing**](https://www.interviewcake.com/concept/javascript/slice?course=fc1&section=array-and-string-manipulation)
+                - [**In-Place Algorithms**](https://www.interviewcake.com/concept/javascript/in-place?course=fc1&section=array-and-string-manipulation)
+                - [**Dynamic Array**](https://www.interviewcake.com/concept/javascript/dynamic-array?course=fc1&section=array-and-string-manipulation)
+            
+            **Practice**
+            
+            - Practice
+                - [x]  [**Merging Meeting Times**](https://www.interviewcake.com/question/javascript/merging-ranges?course=fc1&section=array-and-string-manipulation)
+                - [x]  [**Reverse String in Place**](https://www.interviewcake.com/question/javascript/reverse-string-in-place?course=fc1&section=array-and-string-manipulation)
+                - [x]  [**Reverse Words**](https://www.interviewcake.com/question/javascript/reverse-words?course=fc1&section=array-and-string-manipulation)
+                - [x]  [**Merge Sorted Arrays**](https://www.interviewcake.com/question/javascript/merge-sorted-arrays?course=fc1&section=array-and-string-manipulation)
+                - [x]  [**Cafe Order Checker**](https://www.interviewcake.com/question/javascript/cafe-order-checker?course=fc1&section=array-and-string-manipulation)
+        - [x]  **2. Hashing and hash tables**
+            - **Readings**
+                - [**Hashing and Hash Functions**](https://www.interviewcake.com/concept/javascript/hashing?course=fc1&section=hashing-and-hash-tables)
+                - [**Hash Table**](https://www.interviewcake.com/concept/javascript/hash-map?course=fc1&section=hashing-and-hash-tables)
+            - **Practice**
+                - [x]  [**Inflight Entertainment**](https://www.interviewcake.com/question/javascript/inflight-entertainment?course=fc1&section=hashing-and-hash-tables)
+                - [x]  [**Permutation Palindrome**](https://www.interviewcake.com/question/javascript/permutation-palindrome?course=fc1&section=hashing-and-hash-tables)
+                - [x]  [**Word Cloud Data**](https://www.interviewcake.com/question/javascript/word-cloud?course=fc1&section=hashing-and-hash-tables)
+                - [x]  [**Top Scores**](https://www.interviewcake.com/question/javascript/top-scores?course=fc1&section=hashing-and-hash-tables)
+        - [x]  **3. Greedy algorithms**
+            - Readings
+                - [**Greedy Algorithms**](https://www.interviewcake.com/concept/javascript/greedy?course=fc1&section=greedy)
+            - Practice
+                - [x]  [**Apple Stocks**](https://www.interviewcake.com/question/javascript/stock-price?course=fc1&section=greedy)
+                - [x]  [**Highest Product of 3**](https://www.interviewcake.com/question/javascript/highest-product-of-3?course=fc1&section=greedy)
+                - [x]  [**Product of All Other Numbers**](https://www.interviewcake.com/question/javascript/product-of-other-numbers?course=fc1&section=greedy)
+                - [x]  [**Cafe Order Checker**](https://www.interviewcake.com/question/javascript/cafe-order-checker?course=fc1&section=greedy)
+                - [x]  [**In-Place Shuffle**](https://www.interviewcake.com/question/javascript/shuffle?course=fc1&section=greedy)
+        - [x]  4. **Sorting, searching, and logarithms**
+            - Readings
+                - [**Binary Search Algorithm**](https://www.interviewcake.com/concept/javascript/binary-search?course=fc1&section=sorting-searching-logarithms)
+            - Practice
+                - [x]  [**Find Rotation Point**](https://www.interviewcake.com/question/javascript/find-rotation-point?course=fc1&section=sorting-searching-logarithms)
+                - [x]  [**Find Repeat, Space Edition**](https://www.interviewcake.com/question/javascript/find-duplicate-optimize-for-space?course=fc1&section=sorting-searching-logarithms)
+                - [x]  [**Top Scores**](https://www.interviewcake.com/question/javascript/top-scores?course=fc1&section=sorting-searching-logarithms)
+                - [x]  [**Merging Meeting Times**](https://www.interviewcake.com/question/javascript/merging-ranges?course=fc1&section=sorting-searching-logarithms)
+        - [x]  5. **Trees and graphs**
+            - Readings
+                - [**Binary Tree**](https://www.interviewcake.com/concept/javascript/binary-tree?course=fc1&section=trees-graphs)
+                - [**Graph**](https://www.interviewcake.com/concept/javascript/graph?course=fc1&section=trees-graphs)
+                - [**Breadth-First Search (BFS)**](https://www.interviewcake.com/concept/javascript/bfs?course=fc1&section=trees-graphs)
+                - [**Depth-First Search (DFS)**](https://www.interviewcake.com/concept/javascript/dfs?course=fc1&section=trees-graphs)
+            - Practice
+                - [x]  [**Balanced Binary Tree**](https://www.interviewcake.com/question/javascript/balanced-binary-tree?course=fc1&section=trees-graphs)
+                - [x]  [**Binary Search Tree Checker**](https://www.interviewcake.com/question/javascript/bst-checker?course=fc1&section=trees-graphs)
+                - [x]  [**2nd Largest Item in a Binary Search Tree**](https://www.interviewcake.com/question/javascript/second-largest-item-in-bst?course=fc1&section=trees-graphs)
+                - [x]  [**Graph Coloring**](https://www.interviewcake.com/question/javascript/graph-coloring?course=fc1&section=trees-graphs)
+                - [x]  [**MeshMessage**](https://www.interviewcake.com/question/javascript/mesh-message?course=fc1&section=trees-graphs)
+                - [x]  [**Find Repeat, Space Edition BEAST MODE**](https://www.interviewcake.com/question/javascript/find-duplicate-optimize-for-space-beast-mode?course=fc1&section=trees-graphs)
+        - [x]  **6. Dynamic programming and recursion**
+            - **Readings**
+                - [**Overlapping Subproblems**](https://www.interviewcake.com/concept/javascript/overlapping-subproblems?course=fc1&section=dynamic-programming-recursion)
+                - [**Memoization**](https://www.interviewcake.com/concept/javascript/memoization?course=fc1&section=dynamic-programming-recursion)
+                - [**Bottom-Up Algorithms**](https://www.interviewcake.com/concept/javascript/bottom-up?course=fc1&section=dynamic-programming-recursion)
+            - **Practice**
+                - [x]  [**Recursive String Permutations**](https://www.interviewcake.com/question/javascript/recursive-string-permutations?course=fc1&section=dynamic-programming-recursion)
+                - [x]  [**Compute the nth Fibonacci Number**](https://www.interviewcake.com/question/javascript/nth-fibonacci?course=fc1&section=dynamic-programming-recursion)
+                - [x]  [**Making Change**](https://www.interviewcake.com/question/javascript/coin?course=fc1&section=dynamic-programming-recursion)
+                - [x]  [**The Cake Thief**](https://www.interviewcake.com/question/javascript/cake-thief?course=fc1&section=dynamic-programming-recursion)
+                - [x]  [**Balanced Binary Tree**](https://www.interviewcake.com/question/javascript/balanced-binary-tree?course=fc1&section=dynamic-programming-recursion)
+                - [x]  [**Binary Search Tree Checker**](https://www.interviewcake.com/question/javascript/bst-checker?course=fc1&section=dynamic-programming-recursion)
+                - [x]  [**2nd Largest Item in a Binary Search Tree**](https://www.interviewcake.com/question/javascript/second-largest-item-in-bst?course=fc1&section=dynamic-programming-recursion)
+        - [x]  **7. Queues and stacks**
+            - **Readings**
+                - [**Queue**](https://www.interviewcake.com/concept/javascript/queue?course=fc1&section=queues-stacks)
+                - [**Stack**](https://www.interviewcake.com/concept/javascript/stack?course=fc1&section=queues-stacks)
+            - **Practice**
+                - [x]  [**Largest Stack**](https://www.interviewcake.com/question/javascript/largest-stack?course=fc1&section=queues-stacks)
+                - [x]  [**Implement A Queue With Two Stacks**](https://www.interviewcake.com/question/javascript/queue-two-stacks?course=fc1&section=queues-stacks)
+                - [x]  [**Parenthesis Matching**](https://www.interviewcake.com/question/javascript/matching-parens?course=fc1&section=queues-stacks)
+                - [x]  [**Bracket Validator**](https://www.interviewcake.com/question/javascript/bracket-validator?course=fc1&section=queues-stacks)
+        - [x]  **8. Linked lists**
+            - **Readings**
+                - [**Linked List**](https://www.interviewcake.com/concept/javascript/linked-list?course=fc1&section=linked-lists)
+            - **Practice**
+                - [x]  [**Delete Node**](https://www.interviewcake.com/question/javascript/delete-node?course=fc1&section=linked-lists)
+                - [x]  [**Does This Linked List Have A Cycle?**](https://www.interviewcake.com/question/javascript/linked-list-cycles?course=fc1&section=linked-lists)
+                - [x]  [**Reverse A Linked List**](https://www.interviewcake.com/question/javascript/reverse-linked-list?course=fc1&section=linked-lists)
+                - [x]  [**Kth to Last Node in a Singly-Linked List**](https://www.interviewcake.com/question/javascript/kth-to-last-node-in-singly-linked-list?course=fc1&section=linked-lists)
+                - [x]  [**Find Repeat, Space Edition BEAST MODE**](https://www.interviewcake.com/question/javascript/find-duplicate-optimize-for-space-beast-mode?course=fc1&section=linked-lists)
+        - [x]  **9. System design**
+            - **Practice**
+                - [x]  [**URL Shortener**](https://www.interviewcake.com/question/javascript/url-shortener?course=fc1&section=system-design)
+                - [x]  [**MillionGazillion**](https://www.interviewcake.com/question/javascript/compress-url-list?course=fc1&section=system-design)
+                - [x]  [**Find Duplicate Files**](https://www.interviewcake.com/question/javascript/find-duplicate-files?course=fc1&section=system-design)
+        - [x]  **10. General programming**
+            - **Readings**
+                - [**Short Circuit Evaluation**](https://www.interviewcake.com/concept/javascript/short-circuit-evaluation?course=fc1&section=general-programming)
+                - [**Garbage Collection**](https://www.interviewcake.com/concept/javascript/garbage-collection?course=fc1&section=general-programming)
+                - [**Closures**](https://www.interviewcake.com/concept/javascript/js-closure?course=fc1&section=general-programming)
+                - [**Mutable vs Immutable Objects**](https://www.interviewcake.com/concept/javascript/mutable?course=fc1&section=general-programming)
+            - **Practice**
+                - [x]  [**Rectangular Love**](https://www.interviewcake.com/question/javascript/rectangular-love?course=fc1&section=general-programming)
+                - [x]  [**Temperature Tracker**](https://www.interviewcake.com/question/javascript/temperature-tracker?course=fc1&section=general-programming)
+        - [x]  **11. Bit manipulation**
+            - **Readings**
+                - [**Binary Numbers**](https://www.interviewcake.com/concept/javascript/binary-numbers?course=fc1&section=bit-manipulation)
+                - [**Bitwise AND**](https://www.interviewcake.com/concept/javascript/and?course=fc1&section=bit-manipulation)
+                - [**Bitwise OR**](https://www.interviewcake.com/concept/javascript/or?course=fc1&section=bit-manipulation)
+                - [**Bitwise XOR (eXclusive OR)**](https://www.interviewcake.com/concept/javascript/xor?course=fc1&section=bit-manipulation)
+                - [**Bitwise NOT**](https://www.interviewcake.com/concept/javascript/not?course=fc1&section=bit-manipulation)
+                - [**Bit Shifting**](https://www.interviewcake.com/concept/javascript/bit-shift?course=fc1&section=bit-manipulation)
+                - [**Integer Overflow**](https://www.interviewcake.com/concept/javascript/integer-overflow?course=fc1&section=bit-manipulation)
+            - **Practice**
+                - [x]  [**The Stolen Breakfast Drone**](https://www.interviewcake.com/question/javascript/find-unique-int-among-duplicates?course=fc1&section=bit-manipulation)
+        - [x]  **12. Combinatorics, probability, and other math**
+            - **Readings**
+                - [**Triangular Series**](https://www.interviewcake.com/concept/javascript/triangular-series?course=fc1&section=combinatorics-probability-math)
+            - **Practice**
+                - [x]  [**Which Appears Twice**](https://www.interviewcake.com/question/javascript/which-appears-twice?course=fc1&section=combinatorics-probability-math)
+                - [x]  [**Find in Ordered Set**](https://www.interviewcake.com/question/javascript/find-in-ordered-set?course=fc1&section=combinatorics-probability-math)
+                - [x]  [**In-Place Shuffle**](https://www.interviewcake.com/question/javascript/shuffle?course=fc1&section=combinatorics-probability-math)
+                - [x]  [**Simulate 5-sided die**](https://www.interviewcake.com/question/javascript/simulate-5-sided-die?course=fc1&section=combinatorics-probability-math)
+                - [x]  [**Simulate 7-sided die**](https://www.interviewcake.com/question/javascript/simulate-7-sided-die?course=fc1&section=combinatorics-probability-math)
+                - [x]  [**Two Egg Problem**](https://www.interviewcake.com/question/javascript/two-egg-problem?course=fc1&section=combinatorics-probability-math)
+        - [x]  **13. JavaScript**
+            - **Readings**
+                - [**Closures**](https://www.interviewcake.com/concept/javascript/js-closure?course=fc1&section=javascript)
+                - [**In-Place Algorithms**](https://www.interviewcake.com/concept/javascript/in-place?course=fc1&section=javascript)
+            - **Practice**
+                - [x]  [**JavaScript Scope**](https://www.interviewcake.com/question/javascript/js-scope?course=fc1&section=javascript)
+                - [x]  [**What's Wrong with This JavaScript?**](https://www.interviewcake.com/question/javascript/js-whats-wrong?course=fc1&section=javascript)
+        - [x]  **14. Coding Interview Tips**
+            - **Readings**
+                - [**How The Coding Interview Works**](https://www.interviewcake.com/interview-process-at-tech-companies?course=fc1&section=interview-tips)
+                - [**General Coding Interview Advice**](https://www.interviewcake.com/coding-interview-tips?course=fc1&section=interview-tips)
+                - [**Impostor Syndrome**](https://www.interviewcake.com/impostor-syndrome-in-programming-interviews?course=fc1&section=interview-tips)
+                - [**Why You Hit Dead Ends**](https://www.interviewcake.com/why-youre-hitting-dead-ends-in-whiteboard-interviews?course=fc1&section=interview-tips)
+                - [**Tips for Getting Unstuck**](https://www.interviewcake.com/tricks-for-getting-unstuck-programming-interview?course=fc1&section=interview-tips)
+                - [**The 24 Hours Before Your Interview**](https://www.interviewcake.com/24-hours-before-onsite-whiteboard-coding-interview?course=fc1&section=interview-tips)
+                - [**Beating Behavioral Questions**](https://www.interviewcake.com/behavioral-questions-programming-interview-story-telling?course=fc1&section=interview-tips)
+                - [**Managing Your Interview Timeline**](https://www.interviewcake.com/coding-interview-timeline-exploding-offers-burnout-negotiation-leverage?course=fc1&section=interview-tips)
+- [ ]  Cracking the Coding Interview
+    - Cracking the Coding Interview
+- [ ]  Job Interview Challenges
+    - Job Interview Challenges
+        - [ ]  Stripe
+- [ ]  ICake Pass2
+    - ICake sections
+        - [ ]  **0. Algorithmic thinking**
+            - **Readings**
+                - [**Big O Notation**](https://www.interviewcake.com/article/javascript/big-o-notation-time-and-space-complexity?course=fc1&section=algorithmic-thinking)
+                - [**Data Structures**](https://www.interviewcake.com/article/javascript/data-structures-coding-interview?course=fc1&section=algorithmic-thinking)
+                - [**Logarithms**](https://www.interviewcake.com/article/javascript/logarithms?course=fc1&section=algorithmic-thinking)
+        - [ ]  1. **Array and string manipulation**
+            - Readings
+                - [**Array**](https://www.interviewcake.com/concept/javascript/array?course=fc1&section=array-and-string-manipulation)
+                - [**Array Slicing**](https://www.interviewcake.com/concept/javascript/slice?course=fc1&section=array-and-string-manipulation)
+                - [**In-Place Algorithms**](https://www.interviewcake.com/concept/javascript/in-place?course=fc1&section=array-and-string-manipulation)
+                - [**Dynamic Array**](https://www.interviewcake.com/concept/javascript/dynamic-array?course=fc1&section=array-and-string-manipulation)
+            
+            **Practice**
+            
+            - Practice
+                - [ ]  [**Merging Meeting Times**](https://www.interviewcake.com/question/javascript/merging-ranges?course=fc1&section=array-and-string-manipulation)
+                - [ ]  [**Reverse String in Place**](https://www.interviewcake.com/question/javascript/reverse-string-in-place?course=fc1&section=array-and-string-manipulation)
+                - [ ]  [**Reverse Words**](https://www.interviewcake.com/question/javascript/reverse-words?course=fc1&section=array-and-string-manipulation)
+                - [ ]  [**Merge Sorted Arrays**](https://www.interviewcake.com/question/javascript/merge-sorted-arrays?course=fc1&section=array-and-string-manipulation)
+                - [ ]  [**Cafe Order Checker**](https://www.interviewcake.com/question/javascript/cafe-order-checker?course=fc1&section=array-and-string-manipulation)
+        - [ ]  **2. Hashing and hash tables**
+            - **Readings**
+                - [**Hashing and Hash Functions**](https://www.interviewcake.com/concept/javascript/hashing?course=fc1&section=hashing-and-hash-tables)
+                - [**Hash Table**](https://www.interviewcake.com/concept/javascript/hash-map?course=fc1&section=hashing-and-hash-tables)
+            - **Practice**
+                - [ ]  [**Inflight Entertainment**](https://www.interviewcake.com/question/javascript/inflight-entertainment?course=fc1&section=hashing-and-hash-tables)
+                - [ ]  [**Permutation Palindrome**](https://www.interviewcake.com/question/javascript/permutation-palindrome?course=fc1&section=hashing-and-hash-tables)
+                - [ ]  [**Word Cloud Data**](https://www.interviewcake.com/question/javascript/word-cloud?course=fc1&section=hashing-and-hash-tables)
+                - [ ]  [**Top Scores**](https://www.interviewcake.com/question/javascript/top-scores?course=fc1&section=hashing-and-hash-tables)
+        - [ ]  **3. Greedy algorithms**
+            - Readings
+                - [**Greedy Algorithms**](https://www.interviewcake.com/concept/javascript/greedy?course=fc1&section=greedy)
+            - Practice
+                - [ ]  [**Apple Stocks**](https://www.interviewcake.com/question/javascript/stock-price?course=fc1&section=greedy)
+                - [ ]  [**Highest Product of 3**](https://www.interviewcake.com/question/javascript/highest-product-of-3?course=fc1&section=greedy)
+                - [ ]  [**Product of All Other Numbers**](https://www.interviewcake.com/question/javascript/product-of-other-numbers?course=fc1&section=greedy)
+                - [ ]  [**Cafe Order Checker**](https://www.interviewcake.com/question/javascript/cafe-order-checker?course=fc1&section=greedy)
+                - [ ]  [**In-Place Shuffle**](https://www.interviewcake.com/question/javascript/shuffle?course=fc1&section=greedy)
+        - [ ]  4. **Sorting, searching, and logarithms**
+            - Readings
+                - [**Binary Search Algorithm**](https://www.interviewcake.com/concept/javascript/binary-search?course=fc1&section=sorting-searching-logarithms)
+            - Practice
+                - [ ]  [**Find Rotation Point**](https://www.interviewcake.com/question/javascript/find-rotation-point?course=fc1&section=sorting-searching-logarithms)
+                - [ ]  [**Find Repeat, Space Edition**](https://www.interviewcake.com/question/javascript/find-duplicate-optimize-for-space?course=fc1&section=sorting-searching-logarithms)
+                - [ ]  [**Top Scores**](https://www.interviewcake.com/question/javascript/top-scores?course=fc1&section=sorting-searching-logarithms)
+                - [ ]  [**Merging Meeting Times**](https://www.interviewcake.com/question/javascript/merging-ranges?course=fc1&section=sorting-searching-logarithms)
+        - [ ]  5. **Trees and graphs**
+            - Readings
+                - [**Binary Tree**](https://www.interviewcake.com/concept/javascript/binary-tree?course=fc1&section=trees-graphs)
+                - [**Graph**](https://www.interviewcake.com/concept/javascript/graph?course=fc1&section=trees-graphs)
+                - [**Breadth-First Search (BFS)**](https://www.interviewcake.com/concept/javascript/bfs?course=fc1&section=trees-graphs)
+                - [**Depth-First Search (DFS)**](https://www.interviewcake.com/concept/javascript/dfs?course=fc1&section=trees-graphs)
+            - Practice
+                - [ ]  [**Balanced Binary Tree**](https://www.interviewcake.com/question/javascript/balanced-binary-tree?course=fc1&section=trees-graphs)
+                - [ ]  [**Binary Search Tree Checker**](https://www.interviewcake.com/question/javascript/bst-checker?course=fc1&section=trees-graphs)
+                - [ ]  [**2nd Largest Item in a Binary Search Tree**](https://www.interviewcake.com/question/javascript/second-largest-item-in-bst?course=fc1&section=trees-graphs)
+                - [ ]  [**Graph Coloring**](https://www.interviewcake.com/question/javascript/graph-coloring?course=fc1&section=trees-graphs)
+                - [ ]  [**MeshMessage**](https://www.interviewcake.com/question/javascript/mesh-message?course=fc1&section=trees-graphs)
+                - [ ]  [**Find Repeat, Space Edition BEAST MODE**](https://www.interviewcake.com/question/javascript/find-duplicate-optimize-for-space-beast-mode?course=fc1&section=trees-graphs)
+        - [ ]  **6. Dynamic programming and recursion**
+            - **Readings**
+                - [**Overlapping Subproblems**](https://www.interviewcake.com/concept/javascript/overlapping-subproblems?course=fc1&section=dynamic-programming-recursion)
+                - [**Memoization**](https://www.interviewcake.com/concept/javascript/memoization?course=fc1&section=dynamic-programming-recursion)
+                - [**Bottom-Up Algorithms**](https://www.interviewcake.com/concept/javascript/bottom-up?course=fc1&section=dynamic-programming-recursion)
+            - **Practice**
+                - [ ]  [**Recursive String Permutations**](https://www.interviewcake.com/question/javascript/recursive-string-permutations?course=fc1&section=dynamic-programming-recursion)
+                - [ ]  [**Compute the nth Fibonacci Number**](https://www.interviewcake.com/question/javascript/nth-fibonacci?course=fc1&section=dynamic-programming-recursion)
+                - [ ]  [**Making Change**](https://www.interviewcake.com/question/javascript/coin?course=fc1&section=dynamic-programming-recursion)
+                - [ ]  [**The Cake Thief**](https://www.interviewcake.com/question/javascript/cake-thief?course=fc1&section=dynamic-programming-recursion)
+                - [ ]  [**Balanced Binary Tree**](https://www.interviewcake.com/question/javascript/balanced-binary-tree?course=fc1&section=dynamic-programming-recursion)
+                - [ ]  [**Binary Search Tree Checker**](https://www.interviewcake.com/question/javascript/bst-checker?course=fc1&section=dynamic-programming-recursion)
+                - [ ]  [**2nd Largest Item in a Binary Search Tree**](https://www.interviewcake.com/question/javascript/second-largest-item-in-bst?course=fc1&section=dynamic-programming-recursion)
+        - [ ]  **7. Queues and stacks**
+            - **Readings**
+                - [**Queue**](https://www.interviewcake.com/concept/javascript/queue?course=fc1&section=queues-stacks)
+                - [**Stack**](https://www.interviewcake.com/concept/javascript/stack?course=fc1&section=queues-stacks)
+            - **Practice**
+                - [ ]  [**Largest Stack**](https://www.interviewcake.com/question/javascript/largest-stack?course=fc1&section=queues-stacks)
+                - [ ]  [**Implement A Queue With Two Stacks**](https://www.interviewcake.com/question/javascript/queue-two-stacks?course=fc1&section=queues-stacks)
+                - [ ]  [**Parenthesis Matching**](https://www.interviewcake.com/question/javascript/matching-parens?course=fc1&section=queues-stacks)
+                - [ ]  [**Bracket Validator**](https://www.interviewcake.com/question/javascript/bracket-validator?course=fc1&section=queues-stacks)
+        - [ ]  **8. Linked lists**
+            - **Readings**
+                - [**Linked List**](https://www.interviewcake.com/concept/javascript/linked-list?course=fc1&section=linked-lists)
+            - **Practice**
+                - [ ]  [**Delete Node**](https://www.interviewcake.com/question/javascript/delete-node?course=fc1&section=linked-lists)
+                - [ ]  [**Does This Linked List Have A Cycle?**](https://www.interviewcake.com/question/javascript/linked-list-cycles?course=fc1&section=linked-lists)
+                - [ ]  [**Reverse A Linked List**](https://www.interviewcake.com/question/javascript/reverse-linked-list?course=fc1&section=linked-lists)
+                - [ ]  [**Kth to Last Node in a Singly-Linked List**](https://www.interviewcake.com/question/javascript/kth-to-last-node-in-singly-linked-list?course=fc1&section=linked-lists)
+                - [ ]  [**Find Repeat, Space Edition BEAST MODE**](https://www.interviewcake.com/question/javascript/find-duplicate-optimize-for-space-beast-mode?course=fc1&section=linked-lists)
+        - [ ]  **9. System design**
+            - **Practice**
+                - [ ]  [**URL Shortener**](https://www.interviewcake.com/question/javascript/url-shortener?course=fc1&section=system-design)
+                - [ ]  [**MillionGazillion**](https://www.interviewcake.com/question/javascript/compress-url-list?course=fc1&section=system-design)
+                - [ ]  [**Find Duplicate Files**](https://www.interviewcake.com/question/javascript/find-duplicate-files?course=fc1&section=system-design)
+        - [ ]  **10. General programming**
+            - **Readings**
+                - [**Short Circuit Evaluation**](https://www.interviewcake.com/concept/javascript/short-circuit-evaluation?course=fc1&section=general-programming)
+                - [**Garbage Collection**](https://www.interviewcake.com/concept/javascript/garbage-collection?course=fc1&section=general-programming)
+                - [**Closures**](https://www.interviewcake.com/concept/javascript/js-closure?course=fc1&section=general-programming)
+                - [**Mutable vs Immutable Objects**](https://www.interviewcake.com/concept/javascript/mutable?course=fc1&section=general-programming)
+            - **Practice**
+                - [ ]  [**Rectangular Love**](https://www.interviewcake.com/question/javascript/rectangular-love?course=fc1&section=general-programming)
+                - [ ]  [**Temperature Tracker**](https://www.interviewcake.com/question/javascript/temperature-tracker?course=fc1&section=general-programming)
+        - [ ]  **11. Bit manipulation**
+            - **Readings**
+                - [**Binary Numbers**](https://www.interviewcake.com/concept/javascript/binary-numbers?course=fc1&section=bit-manipulation)
+                - [**Bitwise AND**](https://www.interviewcake.com/concept/javascript/and?course=fc1&section=bit-manipulation)
+                - [**Bitwise OR**](https://www.interviewcake.com/concept/javascript/or?course=fc1&section=bit-manipulation)
+                - [**Bitwise XOR (eXclusive OR)**](https://www.interviewcake.com/concept/javascript/xor?course=fc1&section=bit-manipulation)
+                - [**Bitwise NOT**](https://www.interviewcake.com/concept/javascript/not?course=fc1&section=bit-manipulation)
+                - [**Bit Shifting**](https://www.interviewcake.com/concept/javascript/bit-shift?course=fc1&section=bit-manipulation)
+                - [**Integer Overflow**](https://www.interviewcake.com/concept/javascript/integer-overflow?course=fc1&section=bit-manipulation)
+            - **Practice**
+                - [ ]  [**The Stolen Breakfast Drone**](https://www.interviewcake.com/question/javascript/find-unique-int-among-duplicates?course=fc1&section=bit-manipulation)
+        - [ ]  **12. Combinatorics, probability, and other math**
+            - **Readings**
+                - [**Triangular Series**](https://www.interviewcake.com/concept/javascript/triangular-series?course=fc1&section=combinatorics-probability-math)
+            - **Practice**
+                - [ ]  [**Which Appears Twice**](https://www.interviewcake.com/question/javascript/which-appears-twice?course=fc1&section=combinatorics-probability-math)
+                - [ ]  [**Find in Ordered Set**](https://www.interviewcake.com/question/javascript/find-in-ordered-set?course=fc1&section=combinatorics-probability-math)
+                - [ ]  [**In-Place Shuffle**](https://www.interviewcake.com/question/javascript/shuffle?course=fc1&section=combinatorics-probability-math)
+                - [ ]  [**Simulate 5-sided die**](https://www.interviewcake.com/question/javascript/simulate-5-sided-die?course=fc1&section=combinatorics-probability-math)
+                - [ ]  [**Simulate 7-sided die**](https://www.interviewcake.com/question/javascript/simulate-7-sided-die?course=fc1&section=combinatorics-probability-math)
+                - [ ]  [**Two Egg Problem**](https://www.interviewcake.com/question/javascript/two-egg-problem?course=fc1&section=combinatorics-probability-math)
+        - [ ]  **13. JavaScript**
+            - **Readings**
+                - [**Closures**](https://www.interviewcake.com/concept/javascript/js-closure?course=fc1&section=javascript)
+                - [**In-Place Algorithms**](https://www.interviewcake.com/concept/javascript/in-place?course=fc1&section=javascript)
+            - **Practice**
+                - [ ]  [**JavaScript Scope**](https://www.interviewcake.com/question/javascript/js-scope?course=fc1&section=javascript)
+                - [ ]  [**What's Wrong with This JavaScript?**](https://www.interviewcake.com/question/javascript/js-whats-wrong?course=fc1&section=javascript)
+        - [ ]  **14. Coding Interview Tips**
+            - **Readings**
+                - [**How The Coding Interview Works**](https://www.interviewcake.com/interview-process-at-tech-companies?course=fc1&section=interview-tips)
+                - [**General Coding Interview Advice**](https://www.interviewcake.com/coding-interview-tips?course=fc1&section=interview-tips)
+                - [**Impostor Syndrome**](https://www.interviewcake.com/impostor-syndrome-in-programming-interviews?course=fc1&section=interview-tips)
+                - [**Why You Hit Dead Ends**](https://www.interviewcake.com/why-youre-hitting-dead-ends-in-whiteboard-interviews?course=fc1&section=interview-tips)
+                - [**Tips for Getting Unstuck**](https://www.interviewcake.com/tricks-for-getting-unstuck-programming-interview?course=fc1&section=interview-tips)
+                - [**The 24 Hours Before Your Interview**](https://www.interviewcake.com/24-hours-before-onsite-whiteboard-coding-interview?course=fc1&section=interview-tips)
+                - [**Beating Behavioral Questions**](https://www.interviewcake.com/behavioral-questions-programming-interview-story-telling?course=fc1&section=interview-tips)
+                - [**Managing Your Interview Timeline**](https://www.interviewcake.com/coding-interview-timeline-exploding-offers-burnout-negotiation-leverage?course=fc1&section=interview-tips)
+- [ ]  Data Structures
+    - Data Structures
+        - [ ]  Arrays
+        - [ ]  Stack
+        - [ ]  Queue
+        - [ ]  Linked Lit
+        - [ ]  Hash Table
+        - [ ]  Dictionary
+        - [ ]  Trees
+        - [ ]  Binary Tree
+        - [ ]  Heap
+        - [ ]  Binary Search Tree
+        - [ ]  Digital Tree(Trie)
+        - [ ]  Graphs
+- [ ]  Algorithms
+    - Algorithms
+        - [ ]  Bubble Sort
+        - [ ]  Merge Sort
+        - [ ]  Quicksort
+        - [ ]  Selection Sort
+        - [ ]  Heap Sort
+        - [ ]  Binary Search
+        - [ ]  Graph Traversal
+        - [ ]  Depth First Search
+        - [ ]  Breadth First Search
+- [ ]  Design Patterns
+    - Design Patterns
+        - [ ]  Constructor
+        - [ ]  Factory
+        - [ ]  Builder
+        - [ ]  Method Chaining
+        - [ ]  Singleton
+        - [ ]  Adapter
+        - [ ]  Bridge
+        - [ ]  Composite
+        - [ ]  Decorator
+        - [ ]  Facade
+        - [ ]  Flyweight
+        - [ ]  Command
+        - [ ]  Mediator
+        - [ ]  Observe
+        - [ ]  Slate
+        - [ ]  Strategy
+- [ ]  Content
+    - Content
+        - [ ]  CleanCode book
+        - [ ]  refacoring
+- [ ]  Projects
+    - Projects
+        - [ ]  ToastMasters
+        - [ ]  NinjaTrader
+        - [ ]  Slackmoji
+        - [ ]  Dotfiles
+            - [ ]  Vacasa dotfiles
+            - [ ]  PC dotfiles

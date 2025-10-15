@@ -1,0 +1,314 @@
+﻿Version,landing-page-copy.md
+v0.0.1,"Hero
+Streamline your career moves.
+Ditch the tabs and spreadsheets. CareerOps helps you capture and organize job listings, contacts, and connection notes - right from your browser.
+How it works
+Everything you need to track, connect, and land the role.
+CareerOps is built for high-agency job seekers who treat the process like a system. Track roles, manage connections, and follow up with precision—without losing momentum. If other tools don't offer it, we probably built it.
+One-click job capture
+Save any job you're viewing—title, company, description, location, and salary—in a single click. No copy-pasting or tab chaos.
+Connection & follow-up tracking
+Log who you reached out to, when to follow up, and where you stand—all in one place. Treat job search like a sales pipeline.
+Notion & CSV export
+Export your saved roles to Notion, Airtable, or CSV. Sync with your workflow, not someone else's product roadmap.
+Benefits grid
+Treat your job search like a high-leverage campaign.
+CareerOps helps you move beyond passive browsing. Capture roles, track follow-ups, and build momentum—all in one focused system.
+Save any job instantly
+One click saves the role, company, location, and description—no more copy-pasting into Notion.
+Track multiple opportunities
+Organize roles by status, follow-up, and fit to stay focused and never miss a deadline.
+Act in real time
+See something promising? Save it, tag it, and follow up—all while it’s still hot.
+Leverage your network
+Add contacts and referrals alongside job listings to create a warm intros flywheel.
+Private by default
+Data is stored securely, locally or in your workspace—not shared or tracked.
+Track your momentum
+View your job pipeline at a glance and measure progress like a campaign strategist.
+
+const features = [
+  {
+    name: 'Save any job instantly',
+    description:
+      'One click saves the role, company, location, and description—no more copy-pasting into Notion.',
+    icon: DeviceArrowIcon,
+  },
+  {
+    name: 'Track multiple opportunities',
+    description:
+      'Organize roles by status, follow-up, and fit to stay focused and never miss a deadline.',
+    icon: DeviceCardsIcon,
+  },
+  {
+    name: 'Act in real time',
+    description:
+      'See something promising? Save it, tag it, and follow up—all while it’s still hot.',
+    icon: DeviceClockIcon,
+  },
+  {
+    name: 'Leverage your network',
+    description:
+      'Add contacts and referrals alongside job listings to create a warm intros flywheel.',
+    icon: DeviceListIcon,
+  },
+  {
+    name: 'Private by default',
+    description:
+      'Data is stored securely, locally or in your workspace—not shared or tracked.',
+    icon: DeviceLockIcon,
+  },
+  {
+    name: 'Track your momentum',
+    description:
+      'View your job pipeline at a glance and measure progress like a campaign strategist.',
+    icon: DeviceChartIcon,
+  },
+]
+
+Mid-page CTA
+Start tracking smarter
+Install the Chrome extension and save your first job in seconds. It's the fastest way to organize your pipeline, follow up with clarity, and land work that fits.
+Reviews/Testimonials
+Job seekers are landing faster with CareerOps.
+From engineers to designers, users say CareerOps helps them stay focused, organized, and one step ahead.
+
+const reviews: Array<Review> = [
+  {
+    title: 'Finally organized.',
+    body: 'CareerOps gave me a way to keep track of roles, notes, and follow-ups without a spreadsheet nightmare. It’s become my default dashboard during this job search.',
+    author: 'FocusedAndFree',
+    rating: 5,
+  },
+  {
+    title: '10x better than Notion alone.',
+    body: ""I was manually logging jobs in Notion. CareerOps made it a one-click process. Now I'm applying faster and with way less stress."",
+    author: 'AsyncHunter',
+    rating: 5,
+  },
+  {
+    title: 'Like a CRM for job hunting.',
+    body: ""This is how the job search should’ve worked all along. Clean UI, fast capture, and just enough structure without getting in the way."",
+    author: 'BuilderToBoss',
+    rating: 5,
+  },
+  {
+    title: 'Job search cheat code.',
+    body: ""Saved 20+ roles this week, tracked follow-ups with clarity, and actually felt in control of my pipeline. No more chaos."",
+    author: 'FromScrambleToStrategy',
+    rating: 5,
+  },
+  {
+    title: 'The Chrome extension is 🔥',
+    body: ""Click, captured, done. This extension auto-filled everything from the job page and saved it right to Notion. It's magical."",
+    author: 'TabZero',
+    rating: 5,
+  },
+  {
+    title: 'Perfect for networking too.',
+    body: ""I use the Connect tab to log intros and coffee chats. It’s not just for jobs—it’s a full career command center."",
+    author: 'IntroTracker',
+    rating: 5,
+  },
+  {
+    title: 'Fast, clean, essential.',
+    body: ""CareerOps helps me stay proactive instead of reactive. I know who I emailed, who I followed up with, and what’s next."",
+    author: 'PipelinePro',
+    rating: 5,
+  },
+  {
+    title: 'Replaced 3 different tools.',
+    body: ""I ditched my Airtable, Google Sheets, and Notion hacks. CareerOps rolls them all into one slick workflow."",
+    author: 'ToolFatigued',
+    rating: 5,
+  },
+  {
+    title: 'It’s like having a chief of staff.',
+    body: ""I track applications, contacts, follow-ups, and exports. CareerOps is quiet but powerful—just does the job."",
+    author: 'OpsOnOps',
+    rating: 5,
+  },
+  {
+    title: 'Momentum matters.',
+    body: ""It used to take me 15 minutes to track one opportunity. Now I log 10 in the same time. The compounding effect is real."",
+    author: 'FlowStateSeeker',
+    rating: 5,
+  },
+]
+
+Pricing
+Flat pricing, no bloat.
+Whether you're tracking 5 jobs or 500, CareerOps scales with you.
+
+const plans = [
+  {
+    name: 'Free',
+    featured: false,
+    price: {
+      Monthly: '$0',
+      Quarterly: '$0',
+      Annually: '$0',
+    },
+    description:
+      'Get started with job tracking for free. Perfect for casual users.',
+    button: {
+      label: 'Start for free',
+      href: '<https://chromewebstore.google.com/detail/careerops-extension/nnagkjkdadkhboehpicmdggfadmhnemb>',
+    },
+    features: [
+      '10 free captures to try the platform',
+      'Chrome extension access',
+      'Basic CSV export',
+      'Free Notion template',
+      'Manual Notion support',
+      // 'Discord community access (coming soon)',
+    ],
+    logomarkClassName: 'fill-gray-300',
+    logomarkFill: 'black',
+  },
+  {
+    name: 'Pro',
+    featured: true,
+    price: {
+      Monthly: { original: '$15', early: '$9' },
+      Quarterly: { original: '$39', early: '$24' },
+      Annually: { original: '$149', early: '$89' },
+    },
+    description:
+      'For active job seekers who want automated job capture and CRM sync.',
+    button: {
+      label: 'Upgrade to Pro',
+      href: '/upgrade-to-pro',
+    },
+    features: [
+      '200 monthly captures',
+      'Chrome extension access',
+      'Basic CSV export',
+      'Free Notion template',
+      'Notion integration - direct save (coming soon)',
+      // 'Field mapping (coming soon)',
+      // 'Basic application autofill (coming soon)',
+      'Email support',
+      // 'Discord community access (coming soon)',
+    ],
+    logomarkClassName: 'fill-cyan-500',
+    earlyAccess: true,
+    logomarkFill: 'black',
+  },
+  {
+    name: 'Power (coming soon)',
+    featured: false,
+    price: {
+      Monthly: '$25',
+      Quarterly: '$67',
+      Annually: '$249',
+    },
+    description:
+      'For power users automating job capture, CRM sync, and application prep - at scale.',
+    button: {
+      label: 'Go Power',
+      href: '/upgrade-to-power',
+    },
+    features: [
+      '500 monthly captures',
+      'Up to 3 CRM integrations',
+      'Custom smart/dynamic field mapping',
+      'Resume generation (10/month included)',
+      'Application autofill',
+      'Access to Slack/WhatsApp jobseeker group',
+      'Daily async standups (optional add-on)',
+      'Priority support',
+      // 'Discord community access (coming soon)',
+    ],
+    logomarkClassName: 'fill-gray-500',
+    logomarkFill: 'white',
+  },
+]
+
+FAQs
+Frequently asked questions
+Have a question that's not covered? mailto:support@careerops.com
+What is CareerOps?
+CareerOps is a browser extension that helps you save, organize, and track job listings, networking contacts, and application notes — all from your browser.
+What sites does it work with?
+CareerOps currently supports Greenhouse, Lever, LinkedIn, Ashby, and many others. More platforms are being added regularly.
+Is CareerOps secure?
+CareerOps follows industry best practices to keep your data secure. We limit access, store data safely, and are committed to improving security over time.
+Can I track networking contacts too?
+Yes. You can capture contact names, referral details, and follow-up notes — making it easier to manage warm intros and recruiter outreach.
+Can I export to Notion?
+Absolutely. You can export CSV for Notion, Airtable, and Google Sheets, full integrations coming soon! Native Notion integration is available with a few clicks.
+Will this help me get a job faster?
+CareerOps doesn’t guarantee job offers — but it gives you structure, visibility, and momentum. You’ll spend less time tracking and more time landing interviews.
+Is CareerOps free?
+You can get started for free. Power users can upgrade for features like unlimited saves, custom exports, and multi-board tracking.
+Is this just for tech jobs?
+Not at all. CareerOps works for any role where you apply online and want to stay organized — including marketing, operations, and freelance gigs.
+Who built CareerOps?
+CareerOps was built by Chris McDermut, an engineering leader who got tired of manually parsing data to track roles and jobs applications. You can connect with him on LinkedIn at https://www.linkedin.com/in/christopher-mcdermut/. It’s designed by job seekers, for job seekers.
+
+const faqs = [
+  [
+    {
+      question: 'What is CareerOps?',
+      answer:
+        'CareerOps is a browser extension that helps you save, organize, and track job listings, networking contacts, and application notes — all from your browser.',
+    },
+    {
+      question: 'What sites does it work with?',
+      answer:
+        'CareerOps currently supports Greenhouse, Lever, LinkedIn, Ashby, and many others. More platforms are being added regularly.',
+    },
+    {
+      question: 'Is CareerOps secure?',
+      answer:
+        'CareerOps follows industry best practices to keep your data secure. We limit access, store data safely, and are committed to improving security over time.',
+    },
+  ],
+  [
+    {
+      question: 'Can I track networking contacts too?',
+      answer:
+        'Yes. You can capture contact names, referral details, and follow-up notes — making it easier to manage warm intros and recruiter outreach.',
+    },
+    {
+      question: 'Can I export to Notion?',
+      answer:
+        'Absolutely. You can export CSV for Notion, Airtable, and Google Sheets, full integrations coming soon! Native Notion integration is available with a few clicks.',
+    },
+    {
+      question: 'Will this help me get a job faster?',
+      answer:
+        ""CareerOps doesn't guarantee job offers — but it gives you structure, visibility, and momentum. You'll spend less time tracking and more time landing interviews."",
+    },
+  ],
+  [
+    {
+      question: 'Is CareerOps free?',
+      answer:
+        'You can get started for free. Power users can upgrade for features like unlimited saves, custom exports, and multi-board tracking.',
+    },
+    {
+      question: 'Is this just for tech jobs?',
+      answer:
+        'Not at all. CareerOps works for any role where you apply online and want to stay organized — including marketing, operations, and freelance gigs.',
+    },
+    {
+      question: 'Who built CareerOps?',
+      answer: (
+        <>
+          CareerOps was built by Chris McDermut, an engineering leader who got tired of manually parsing data to track roles and jobs applications. You can connect with him on LinkedIn at{' '}
+          <a
+            href=""<https://www.linkedin.com/in/christopher-mcdermut/>""
+            target=""_blank""
+            rel=""nofollow noreferrer""
+            className=""text-blue-600 underline""
+          >
+            <https://www.linkedin.com/in/christopher-mcdermut/>
+          </a>
+          . It's designed by job seekers, for job seekers.
+        </>
+      ),
+    }
+  ],
+]"

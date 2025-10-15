@@ -1,0 +1,49 @@
+# Biz Ideas
+
+- a tool to automate putting things onto craigslist, poshmark, facebook marketplace, offerup
+- a tool for putting car listings on all the platforms
+- a tool for putting apartment/rental listings on all the platforms
+- a candle that fits perfectly in ammo cans for camping/outdoors
+- private labeling a jacket design from turkey that i get a ton of compliments on
+- a nalgene top that fits a headlamp so it turns into a lantern
+- a nalgene that fits a headlamp in the bottom
+- a listing creater or scanner that elicits the right info for facebook marketplace
+- a sticker tool that you put on items so that when its found you can scan and get connected with the owner
+- a software for managing hotel building maintenance
+- making a vc fund
+- making car seat covers for overlanders with cool designs like nomadix does for towels
+- a marketplace of product ideas or a place where people in industry could publish “i really really wish i had a tool/software for xyz”
+- a tool to help people keep in touch that automatically schedules calls, like a crm but for friends
+- buying cars from suadi arabia/uae and selling them in the US specificaly defender and land cruisers
+- making a car auction website with more owner control than bringatrailer
+- an ebook for helping people sell cars
+- selling my budgeting and investment spreadsheet
+- making a brand of traditional chinese tea ware
+- a store chain or website called 100 grand which is 100 pieces of original art for under 1000 dollars
+- a bike repair software/service where the company picks up bikes, repairs them in a central location and drops them back off
+- a bike repair business that just forcuses on fleets at hhotels etc
+- a bike brand for very nice lugged steel vintage style bikes for commuters
+- a financial institution/tool that allows/facilitates people to do selfdirected IRAs
+- a tool for helping facilitates neighbors sharing wifi
+- a tool to automate and manage posting videos on YT, IG, TT
+- a tool that can scan items in a thrift store and automatically calculate the market demand and shipping costs if resold on second hand marketplaces
+- selling my system for communicating with landlords
+- selling my system for improving dating profiles and interactions
+- buy ecommerce sites and implement stripe or aydean checkout flow to increase sales
+- a coaching marketplace
+- a coaching CRM/ sass
+- a fanny pack brand
+- Event site
+- Car saver
+- As site for weeklys
+- Car maintenance app
+- Mac desktop organizer
+- Finding products locally
+- Rollover software
+- Crm for apaetments
+- Crm for homes
+- Home mortgage and plus calculator
+- Budgeting sheets
+- Searchable evergreen content
+- Writing repurposer
+-

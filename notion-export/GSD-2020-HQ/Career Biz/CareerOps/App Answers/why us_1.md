@@ -1,0 +1,5 @@
+# why us?
+
+Answer: The past two years I have appreciated Github's hosting of Reactathon as well as Brian Douglas' excellent emcee'ing and the myriad Octocat stickers at reception. A particularly salient thrill was convincing five colleagues to drive to SF, stay 24+ hours working in the Colin P Kelly office event space on a React Native parking sign decoder, which won 2nd place at the 2018 Reactathon hackathon! Github is an excellent champion of improving developer workflows as well as fostering engineering growth and community. I carry this Github appreciation and inspiration for developer community into my professional and personal networks via giving talks on developer workflows, tools and writing recommendations for colleagues.
+Company: Untitled (https://www.notion.so/2316509554a7811d8305e5761202c002?pvs=21)
+Question 1: Why do you want to work at GitHub?

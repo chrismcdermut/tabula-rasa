@@ -1,0 +1,7 @@
+# Written Reference
+
+Sean directed the most organized company wide technical initiative I have witnessed: Vacasa's complete migration from reservation IDs to confirmation codes. His technical acumen and organizational methodology facilitated an on-time, successful roll out. His thorough product brief ensured confirmation code's were human-readable using Crockford's base32 character set, scalable to 7.9 x 10^28 codes (ie, enough) and closed a security vulnerability in inferring guests reservation numbers.
+
+Efficient sync meetings were held with identified goals and agendas and often ended early. In between check-in meetings, Sean maintained effective communication by creating clear tickets for collaborating cross functional teams, reaching out via slack and email, and formulating an extraordinary confluence sheet that dynamically tracked each team's progress and identified the critical-path MVP necessary for launch. His Jira skills are incredible.
+
+Vacasa's product management and engineering departments pointed to Sean's project management practices as models for other large initiatives. Sean will bring a level of prowess that will certainly level up his peers, department and corporation.

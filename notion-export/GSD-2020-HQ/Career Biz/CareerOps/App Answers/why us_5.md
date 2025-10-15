@@ -1,0 +1,5 @@
+# why us?
+
+Answer: I just finished a solo bike tour from China to Portugal—10,500 miles over 10 months. I lived the highs and lows of the endurance athlete and rider's journey, and Zwift’s mission resonates deeply. It feels like the natural next step to channel that energy, community spirit, and endurance mindset into building tools that keep others moving, product-wise and within the Eng-org. While the long-range world tour is finished for now, I’m already planning my next challenge: a self-supported FKT attempt on the Badwater Classic multi-sport route (Death Valley to Whitney Summit) in October 2026.
+Company: Untitled (https://www.notion.so/2316509554a781568cbad11327df8e74?pvs=21)
+Question 1: What brings you to Zwift? (We love authentic responses that come from your own thoughts and experiences. AI assisted applications will be omitted from further review.)

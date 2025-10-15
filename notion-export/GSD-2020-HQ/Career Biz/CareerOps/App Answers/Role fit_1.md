@@ -1,0 +1,5 @@
+# Role fit
+
+Answer: 8.5. I’ve led critical systems and high-performing teams through major product replatforms and infrastructure overhauls. At LegalShield, I managed an 8 person team through a company-wide checkout replatform supporting $250M/year in transactions. At Vacasa, I built the guest messaging infrastructure and retooled CX workflows, directly improving the most sensitive surface area for 3M+ active guests. While I haven’t worked in Go, I have deep experience scaling systems in production and picking up new technologies quickly. I’m drawn to Mattermost’s focus on secure, mission-critical collaboration—something I’ve supported not just in tech, but also through medical team volunteering and SAR training.
+Company: Untitled (https://www.notion.so/2316509554a781168d94c2d0f7cc4cb5?pvs=21)
+Question 1: On a scale of 1 (not a fit) to 10 (perfect fit) how would you rate your potential fit for the role for which you're applying? Please share why.

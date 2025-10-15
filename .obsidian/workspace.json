@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "75d828538f17508f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd0e3340fb2324cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b78fe7472619ec0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "projects/snow-white/pmo/snow-white-kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "snow-white-kanban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1405bf63b88fc4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2407830f10116a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8a12acc6fc1b187",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1bb2bf79466ee10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1323d1074b37481",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "14bd6bbaef78eb42",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf70cc40fcbdc910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d248e0f263423a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "41ff4cf064b715af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b849287654ce7ec3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87008dfb2dfaff1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "8b78fe7472619ec0",
+  "lastOpenFiles": [
+    "AGENT.md",
+    "projects/snow-white/pmo/snow-white-kanban.md",
+    "projects/snow-white/pmo/specs/future/install-sound-heatproof-insulation.md",
+    "projects/snow-white/pmo/specs/future/build-sleeping-platform.md",
+    "projects/snow-white/pmo/specs/future/install-seat-covers.md",
+    "projects/snow-white/pmo/specs/future/install-mud-flaps.md",
+    "projects/snow-white/pmo/specs/future/replace-winch-cable.md",
+    "projects/snow-white/pmo/specs/future/windshield-replacement.md",
+    "projects/snow-white/pmo/specs/future/install-chrome-snorkel.md",
+    "projects/snow-white/pmo/specs/future/install-oil-catch-can.md",
+    "projects/snow-white/pmo/specs/future/redo-window-trim.md",
+    "projects/snow-white/pmo/specs/future/redo-ds-ps-door-gaskets.md",
+    "projects/snow-white/pmo/specs/future/rebuild-ps-window-motor.md",
+    "projects/snow-white/pmo/specs/future/rebuild-ds-window-motor.md",
+    "projects/snow-white/pmo/specs/future/install-ds-window-switch.md",
+    "projects/snow-white/pmo/specs/future/front-knuckle-rebuild.md",
+    "projects/snow-white/pmo/specs/future/buy-matching-wheel-set.md",
+    "projects/snow-white/pmo/specs/future/install-apple-carplay-screen.md",
+    "projects/snow-white/pmo/specs/future/replace-hand-throttle.md",
+    "projects/snow-white/pmo/specs/future/install-egt-gauge.md",
+    "projects/snow-white/pmo/specs/future/install-diesel-fed-cab-heater.md",
+    "projects/snow-white/pmo/specs/future/service-windshield-washer-system.md",
+    "projects/snow-white/pmo/specs/future/rebuild-ds-door-lock.md",
+    "projects/snow-white/pmo/specs/future/install-diesel-fed-coolant-heater.md",
+    "projects/snow-white/pmo/specs/future/install-roof-rack.md",
+    "projects/snow-white/pmo/specs/future/install-2in-dobinson-lift-kit.md",
+    "projects/snow-white/pmo/specs/current",
+    "projects/snow-white/pmo",
+    "projects/snow-white/pmo/specs",
+    "projects/snow-white",
+    "projects/snow-white/pmo/specs/future",
+    "projects/snow-white/pmo/specs/active",
+    "projects/snow-white/pmo/specs/completed",
+    "notion-export/GSD-2020-HQ/Romance-Love",
+    "notion-export/GSD-2020-HQ/Life Dashboard - GSD/projects (epics)/see noBoCo friends/Untitled_3.csv",
+    "notion-export/GSD-2020-HQ/Life Dashboard - GSD/projects (epics)/see noBoCo friends/Untitled_2.csv",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Snow White/Untitled.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2642_2.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2640_2.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2631_3.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2630_3.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2485.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2484.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2483.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2482.jpeg",
+    "notion-export/GSD-2020-HQ/Home & Environment/Rigs/Patti Description/IMG_2481.jpeg"
+  ]
+}

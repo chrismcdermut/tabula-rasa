@@ -1,0 +1,7 @@
+# Measure team performance
+
+Answer: I measure team performance through a mix of business outcomes, team-level output, and individual contribution. Business metrics usually include impact on revenue, costs, or NPS — depending on the product area. Team output is measured through things like features shipped, ticket throughput, and bug rates. And individual performance covers code quality, velocity, code reviews, and contributions to architecture or product direction.
+I’m always looking for high-leverage practices that improve both quality and productivity. At Dun & Bradstreet, I introduced and refined a robust pull request (PR) template that significantly improved engineering habits. It increased code clarity, sped up reviews, reduced QA failures, and helped make us the highest-performing team in a $400M business line.
+This small change also had a big impact on morale. Engineers felt more confident submitting code, reviewers gave better feedback, and the team took more ownership of quality overall. I originally drew inspiration from the concept of a “keystone habit” in The Power of Habit — something simple that creates outsized impact. I still use this mindset today: find the small changes that unlock bigger gains across performance, culture, and delivery.
+Company: Untitled (https://www.notion.so/2316509554a7815a9b69e9014a702793?pvs=21)
+Question 1: How do you measure the performance of your engineering team?

@@ -1,0 +1,5 @@
+# Written Reference
+
+Matt is a growth-oriented and generous colleague always willing to lend an ear, provide feedback, and contribute to skill-building meetings in the workplace. Matt and I participated in weekly toastmaster meetings to hone public speaking and conversational skills. In addition to toastmasters, Matt regularly joined company-wide technical lunch & learns to enhance knowledge on programming languages, version control, APIs and networking, etc.
+
+Matt's dedication to growth is obvious when listening to him present a talk or speech. The cadence, word choice, story arch, and gesticulation is polished, refined and effective. He extends his commitment to excellence through a willingness to join ad-hoc speech practices, share honest feedback, and help lead Vacasa's toast master's group. Matt helped me prepare for my first Moth story-slam event to speak in front of 100+ audience members; he went above and beyond by taking out a Tuesday evening to buy a ticket and attend the event for support. I thoroughly enjoy working with Matt and would eagerly do so again.

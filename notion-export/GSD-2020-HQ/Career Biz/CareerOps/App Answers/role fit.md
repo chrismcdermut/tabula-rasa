@@ -1,0 +1,5 @@
+# role fit
+
+Answer: The most effective workflow improvements, optimizations I have developed with my engineering teams have utilized Github's robust suite of developer tools and CI/CD abilities. To ensure high code quality, I set up Github checks for peer reviews, Code Climate test coverage, complexity reporting, and passing builds & tests in Circle CI. Additionally, I have used other effective tools with developer productivity in mind: thorough Github wiki pages to onboard engineers in Uruguay and enable them to contribute/deploy production code within days of joining Hooked. I draft thoughtful PR templates which elicit information key to thorough peer and QA reviews. I firmly believe the ideal end-state for the software development lifecycle is automated testing and integration/deployment straight into production. With tenets of automation, optimization CI/CD top of mind, I am excited to contribute to Github's Actions team to promote automated software development life cycles across the industry.
+Company: Untitled (https://www.notion.so/2316509554a7811d8305e5761202c002?pvs=21)
+Question 1: Why do you feel you would be a fit for this role?

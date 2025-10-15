@@ -1,0 +1,6 @@
+# why us?
+
+Answer: As a certified Wilderness First Responder and former volunteer first responder, I’ve experienced firsthand the urgency and clarity required in accident, disaster, illness, and injury response. Those skills have helped me save lives—including my own—and they’ve left me with a deep respect for the systems that support responders. The mission behind Prepared 911 resonates with me personally: efficient, real-time communication in moments that matter can be the difference between life and death.
+Professionally, I’ve led engineering teams to build high-reliability customer messaging tools at scale, including a platform that supported 3M+ guests across 38,000 properties. At Vacasa, I stood up the CX Tools team to replace brittle legacy workflows with scalable, real-time systems—driving a 20% improvement in resolution time and enabling faster, clearer communication across users and agents. I’m excited by the opportunity to bring both my technical leadership and my on-the-ground emergency response perspective to a mission as important as yours.
+Company: Untitled (https://www.notion.so/2316509554a7813f809dd7d306744834?pvs=21)
+Question 1: Tell us what is exciting to you about Prepared 911.

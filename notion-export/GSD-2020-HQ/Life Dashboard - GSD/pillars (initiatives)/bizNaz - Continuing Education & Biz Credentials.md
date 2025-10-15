@@ -1,0 +1,4 @@
+# bizNaz - Continuing Education & Biz Credentials
+
+KRs: bizNaz - capm (../KRs%201bc6509554a780bd8692d8c3a887946c/bizNaz%20-%20capm%201bf6509554a78038abbad72cb9f00f93.md), bizNaz - cert product owner (../KRs%201bc6509554a780bd8692d8c3a887946c/bizNaz%20-%20cert%20product%20owner%201bf6509554a7806ea166d445624c4fbb.md), bizNaz - scrum master (../KRs%201bc6509554a780bd8692d8c3a887946c/bizNaz%20-%20scrum%20master%201bf6509554a7803882b5cf9105916f2e.md), bizNaz - AWS DA (../KRs%201bc6509554a780bd8692d8c3a887946c/bizNaz%20-%20AWS%20DA%201bf6509554a7803ead66cc686cd43afa.md), bizNaz - AWS SA (../KRs%201bc6509554a780bd8692d8c3a887946c/bizNaz%20-%20AWS%20SA%201bf6509554a78049b436d4e9d27bf6b3.md)
+objectives: bizNaz (../objectives%201b66509554a7804d90c1dc1239f7e26c/bizNaz%201b66509554a7804eb582f48acd60fda0.md)

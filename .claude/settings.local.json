@@ -2,9 +2,29 @@
   "permissions": {
     "allow": [
       "Bash(mkdir:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(notion2obsidian:*)",
+      "Bash(python3:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git submodule:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git config:*)",
+      "Bash(git rm:*)",
+      "Bash(rm:*)",
+      "Bash(grep:*)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "additionalDirectories": [
+      "/Users/chrismcdermut/Projects/inflow-project/inflow-code",
+      "/Users/chrismcdermut/Projects/inflow-project/inflow-pmo"
+    ]
   }
 }

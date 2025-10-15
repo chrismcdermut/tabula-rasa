@@ -1,0 +1,7 @@
+# Written Reference
+
+Rob is a rocket ship of an engineer. His early career progress puts him at a very competent full-stack engineer, including experience in serverless and cloud infrastructure work. Rob joined my team as an intern and rapidly progressed to be a prolific contributor.
+
+For a manager, a sign of a truly stellar employee is when they set their own goals and lead manager one-on-one meetings. Rob consistently outpaced our road-map of objectives. He acquired industry and domain knowledge through meetings with colleagues, developed a full-stack portfolio application, and prepared a lightning talk for Twilio's Signal Conference - to name just a few. Rob excelled in his growth through organized documentation of tasks, work and gained knowledge, complemented with excellent time management.
+
+Rob made significant contributions across our department's domain: 1) Modular react components to legacy PHP interfaces to a React-based SPA (single-page-app) components 2) Serverless and terraform infrastructure-as-code to manager our cloud architecture 3) The pilot Twilio integration we used scale SMS communication to 50,000+ customers 4) Developed key pages and services in a platform-agnostic modern  PWA (progressive-web-app) to help circumvent seven-figure costs in mobile phone hardware; I must add that another Engineering Manager recognized his skills and requested to borrow Rob for a quarter to contribute to this PWA work. Rob is a high impact, organized, communicative, compassionate employee and teammate whom I would gladly work with again.

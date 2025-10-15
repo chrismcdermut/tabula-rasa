@@ -1,0 +1,7 @@
+# Cross-functional Leadership & Scalable Systems
+
+Answer: At LegalShield, I led the end-to-end modernization of our company’s checkout platform, replacing three legacy systems and supporting over $250M in annual revenue. The roadmap included redesigning the user flow, re-architecting core services, and enabling flexible product offerings across B2C, D2C, and Sales channels.
+I collaborated with 23 stakeholders across four lines of business — including product, engineering, marketing, finance, legal, and sales — to shape a roadmap that balanced business continuity with long-term scalability. We phased delivery to minimize disruption, while aligning on shared KPIs like conversion rates, revenue lift, and reduction in order-related support tickets.
+One of the most rewarding moments came during the final phase. I had taken a customer-centric approach not just for end users, but also internal business teams. By anticipating questions and pain points, I built reusable components, prebuilt test suites, and extensive documentation to support asynchronous development. When I reached out to the last business-line scheduled to migrate in fall 2023, I was surprised — they had already adopted the system and were on track to deliver independently that quarter. That moment showed how thoughtful systems and clear documentation can scale leadership across teams — without bottlenecks.
+Company: Untitled (https://www.notion.so/2316509554a7815a9b69e9014a702793?pvs=21)
+Question 1: Tell us about a project where you worked cross-functionally with many stakeholders.

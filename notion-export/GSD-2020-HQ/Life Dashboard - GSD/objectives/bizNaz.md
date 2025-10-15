@@ -1,0 +1,8 @@
+# bizNaz
+
+Description: Develop and scale a high-income business generating $1M+/year within 5 years by launching and growing scalable digital ventures, automation tools, and high-margin business models—while strategically investing for long-term financial independence and sustainable wealth reaching $10M net-worth.
+KRs: bizNaz - capm (../KRs%201bc6509554a780bd8692d8c3a887946c/bizNaz%20-%20capm%201bf6509554a78038abbad72cb9f00f93.md)
+Life-level achievements: 10 million networth (../vision%20life-level%20achievements%201bd6509554a780e892f3ee1d7b022fc9/10%20million%20networth%201bd6509554a780beb6f3d5307448ed8c.md), US-China ambassador (../vision%20life-level%20achievements%201bd6509554a780e892f3ee1d7b022fc9/US-China%20ambassador%201bd6509554a78018873cea054f186f61.md)
+Status: Not started
+initiatives (pillars): bizNaz - 9-5 Job & Employment Opportunities (../pillars%20(initiatives)%2019b6509554a7801c9220f481d5371bf7/bizNaz%20-%209-5%20Job%20&%20Employment%20Opportunities%201bb6509554a780c98671dade9448c1a6.md), bizNaz - 5-9 Entrepreneur & BizVentures (../pillars%20(initiatives)%2019b6509554a7801c9220f481d5371bf7/bizNaz%20-%205-9%20Entrepreneur%20&%20BizVentures%201bb6509554a7806f87fbdf1ebe422fc6.md), bizNaz - Investing & Wealth-Building (../pillars%20(initiatives)%2019b6509554a7801c9220f481d5371bf7/bizNaz%20-%20Investing%20&%20Wealth-Building%201bb6509554a7801dafddef8778e35de2.md), bizNaz - Continuing Education & Biz Credentials (../pillars%20(initiatives)%2019b6509554a7801c9220f481d5371bf7/bizNaz%20-%20Continuing%20Education%20&%20Biz%20Credentials%201bb6509554a78070907cf48ce11475ea.md)
+name: 📈 2️⃣ Build and Scale a High-Income Business
