@@ -1,0 +1,5 @@
+# Written Reference
+
+JT is a growth-oriented and communicative team player. JT presented a lightning talk for Vacasa: "learning how to learn" to an audience of 100+ technology professionals to share techniques on productivity and learning. The talk summarized concepts of productivity, studying/research, focus, and psychology with a thorough citation of case studies, behavior economics and psychology research. JT reinforced points on productivity with relatable anecdotes or potential approaches to account for varied styles.
+
+JT's passion for growth and learning are clear when engaged in a discussion of books like "Thinking Slow And Fast", "Power of Habit" and "Never Split the Difference" - which are just a few amongst the many he's read. His intellect and productivity are most evidenced by his recent effort to study AWS cloud infrastructure and pass the certified AWS Developer Associate exam. Congratulations to JT on this new certification - I have absolute confidence he will continue a strong growth trajectory in the networking and cloud infrastructure space.

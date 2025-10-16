@@ -1,0 +1,49 @@
+﻿STAR,Theme,Prompt,Situation,Task,Action,Result,📜 Companies,Role,Timeline
+LS: Checkout Replatform (Marquee Project),Leadership in Complexity,"We'll dive into how you've guided teams through complex projects, adapted your management style in dynamic environments, and kept your team motivated during challenges.","S - Situation (messy mix legacy tech, on prem architecture and 1 previous failed attempt to update the system)","• T – Task (get a lay of the land, connect with team/stakeholders, business)
+    ◦ The key challenges included:
+
+        ▪ Untangling a web of internal language and org politics (e.g., “Groups” aka “Biz Sol” aka “Solutions” aka “B2C”) to align on priorities.
+        ▪ Gaining full situational awareness across product and technical stakeholders (24+ total).
+        ▪ Navigating two legacy checkout platforms and understanding their downstream dependencies.
+        ▪ Identifying an ideal end state while balancing technical feasibility, MVP delivery, and business risk.
+        ▪ This required balancing diplomacy and direction, while gaining buy-in across a sprawling enterprise landscape.","• A – Action (gain clarity on business/tech make roadmap)
+    ◦ Conducted deep discovery across business, product, and engineering to map out the current state and unify stakeholder vision.
+    ◦ Identified “Groups” as the largest and most strategically important line of business—prioritized its transition to the modern checkout first.
+    ◦ Developed a roadmap to consolidate checkouts into a single, modernized system powered by:
+
+        ▪ 1 new SKU system
+        ▪ 9 new microservices (maybe 20+ new endpoints)
+    ◦ Aligned across two backend teams and scoped a path to de-risk MVP delivery before scaling.","• R – Result (full and early delivery)
+    ◦ Successfully led the architecture and execution of a new checkout system to support all 4 business lines.
+    ◦ Streamlined compliance with PCI and PII requirements.
+    ◦ Delivered a scalable commerce platform foundation for future growth.
+    ◦ Transformed a disjointed ecosystem into a cohesive platform strategy with high executive visibility.",,,
+Vacasa: CX Tools Team Standup,Leadership in Complexity,"We'll dive into how you've guided teams through complex projects, adapted your management style in dynamic environments, and kept your team motivated during challenges.",,,,,,,
+Vacasa: CX Tools feature force ranking,Agility & Collaboration,"We’d love to hear how you’ve influenced product direction, collaborated cross-functionally, and used customer insights to inform strategy. Examples of how you define success and measure outcomes will be helpful here.",,,,,,,
+DNB: DUNS number reg flow,Agility & Collaboration,"We’d love to hear how you’ve influenced product direction, collaborated cross-functionally, and used customer insights to inform strategy. Examples of how you define success and measure outcomes will be helpful here.",,,,,,,
+LegalShield: Checkout product roadmap,Agility & Collaboration,"We’d love to hear how you’ve influenced product direction, collaborated cross-functionally, and used customer insights to inform strategy. Examples of how you define success and measure outcomes will be helpful here.",,,,,,,
+Hooked: Improved onboarding flow,Agility & Collaboration,"We’d love to hear how you’ve influenced product direction, collaborated cross-functionally, and used customer insights to inform strategy. Examples of how you define success and measure outcomes will be helpful here.",,,,,,,
+Vacasa→LegalShield: Design Docs (technical strategy),Strategic Technical Management,"We’re interested in how you communicate the value of addressing technical debt, prioritize technical strategy, and reflect on lessons learned from past decisions.",,,,,,,
+Vacasa: RCA (messaging down),Strategic Technical Management,"We’re interested in how you communicate the value of addressing technical debt, prioritize technical strategy, and reflect on lessons learned from past decisions.",,,,,,,
+Vacasa/LegalShield: Tech debt + Velocity charts + retros,Strategic Technical Management,"We’re interested in how you communicate the value of addressing technical debt, prioritize technical strategy, and reflect on lessons learned from past decisions.",,,,,,,
+DNB: DUNS Flow,Leadership in Complexity,"You’ll be asked about how you balance rapid delivery with maintaining product quality, as well as how you support sustainable productivity across your team.",,,,,,,
+DNB: PR Template,Speed Quality and Sustainability,"You’ll be asked about how you balance rapid delivery with maintaining product quality, as well as how you support sustainable productivity across your team.",,,,,,,
+LegalShield: package abstraction/testing/documentation,Speed Quality and Sustainability,"You’ll be asked about how you balance rapid delivery with maintaining product quality, as well as how you support sustainable productivity across your team.",,,,,,,
+Vacasa: Stand up CX Tools team,Adaptive Team Leadership,"We want to understand how you adjust your approach based on team size and maturity, how you give feedback, and how you promote inclusion and a healthy team culture.",,,,,,,
+Hooked: Introduce DDD + professional SDLC,Adaptive Team Leadership,"We want to understand how you adjust your approach based on team size and maturity, how you give feedback, and how you promote inclusion and a healthy team culture.",,,,,,,
+LegalShield: Introduce DDD + professional SDLC,Adaptive Team Leadership,"We want to understand how you adjust your approach based on team size and maturity, how you give feedback, and how you promote inclusion and a healthy team culture.",,,,,,,
+Vacasa: Got everyone rehired after layoffs,Adaptive Team Leadership,"We want to understand how you adjust your approach based on team size and maturity, how you give feedback, and how you promote inclusion and a healthy team culture.",,,,,,,
+General Practices,Talent Ecosystem,"Your approach to hiring, onboarding, and building diverse and inclusive teams.",,,,,,,
+general practices,Professional Empowerment Philosophy,"How you support growth, encourage engagement, and guide team members along their career paths.",,,,,,,
+Vacasa: Kevin underperforming,Professional Empowerment Philosophy,"How you support growth, encourage engagement, and guide team members along their career paths.",,,,,,,
+LegalShield: rebalance team,Managing Team Performance,"Your strategies for navigating challenging situations, driving accountability, and fostering healthy team dynamics.",,,,,,,
+LegalShield: Checkout roadmap + team momentum,Managing Team Performance,"Your strategies for navigating challenging situations, driving accountability, and fostering healthy team dynamics.",,,,,,,
+general approach (visible goals/data/inclusion),Leadership Philosophy,"How you align your team around shared goals, promote innovation, and inspire a strong sense of purpose.",,,,,,,
+LegalShield: Pablo test suite,Leadership Philosophy,"How you align your team around shared goals, promote innovation, and inspire a strong sense of purpose.",,,,,,,
+,,What was a time you had to deal with an underperforming engineer?,,,,,,,
+,,How do you deal with ambiguity?,,,,,,,
+,,"How have you promoted Diversity & Inclusion within your teams? ",,,,,,,
+,,"How do you achieve a balance between autonomy and micromanagement? ",,,,,,,
+,,"Describe a situation that required you to resolve a conflict in the workplace setting. ",,,,,,,
+,,What are some tangible ways through which you have helped your team members grow and achieve promotions?,,,,,,,
+,,Can you provide an example of how you manage conflict?,,,,,,,

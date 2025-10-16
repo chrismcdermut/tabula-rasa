@@ -1,0 +1,5 @@
+# web portfolio experience
+
+Answer: I’ve led several complex platform migrations that required maintaining SEO, business continuity, and user experience. At Dun & Bradstreet, I re-architected the DUNS number registration flow, migrating it from a WordPress-based stack to a modern React frontend—preserving SEO equity and increasing conversion by 30%. At LegalShield, I led a full replatform of our $250M/year checkout system, modernizing legacy infrastructure while ensuring zero disruption to revenue-critical flows. I’ve also progressively migrated legacy PHP admin dashboards at Vacasa by integrating React SPAs, enabling a smoother, more scalable experience for 300+ agents.
+Company: Untitled (https://www.notion.so/2316509554a7818e9a3eefbd93bb8591?pvs=21)
+Question 1: Have you overseen a portfolio of websites? If so, could you describe your experience with site migrations?

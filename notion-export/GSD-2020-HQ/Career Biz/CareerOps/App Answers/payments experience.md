@@ -1,0 +1,7 @@
+# payments experience
+
+Answer: At LegalShield, I led the modernization and replatforming of our company’s entire checkout flow, which supported over $250M in annual revenue. We replaced three legacy systems with a modern, PCI- and PII-compliant platform using React SPAs and a Node/C# microservice architecture. The system had to handle different order schemas and databases, and support B2C, D2C, and sales channels — all while keeping the experience seamless for the user.
+I introduced test-driven development practices to reduce risk in payment workflows and led the architecture of core abstractions that allowed us to scale across teams without duplicating logic. I also worked closely with Finance and Legal on compliance requirements like PCI, PII, and ADA to ensure customer protection and platform reliability.
+Earlier at Vacasa, I built services on AWS (Lambda, SQS, API Gateway) to support high-volume messaging between guests and staff — not directly billing, but with similar reliability and scale requirements. That experience shaped my approach to building systems that are both resilient and customer-friendly.
+Company: Untitled (https://www.notion.so/2316509554a7815a9b69e9014a702793?pvs=21)
+Question 1: What experience do you have with billing, payments, or sensitive data (PCI/PII)?

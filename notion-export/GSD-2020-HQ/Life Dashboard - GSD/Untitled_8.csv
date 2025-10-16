@@ -1,0 +1,18 @@
+﻿Key,Value,Notes / Usage,dynamic value
+now(),Current system date/time (auto-updated),Use for dynamic timelines / comparisons,2025-08-17
+Today (Manual),Custom Date property (manually updated),Use for snapshots or consistent review anchors,2025-08-17
+Target Date,Date field in your database,The date you're aiming for on any goal or project,2025-08-17
+Last edited,Auto-updated timestamp on any edit,Useful for freshness or progress tracking,2025-08-17
+Created time,Auto-set timestamp when an item is created,Good for tracking lifecycle / aging,2025-08-17
+Key Result,Measurable outcome (Key Result),Should be quarterly and time-bound,2025-08-17
+Timeline Bucket,Formula output based on Target Date,"Outputs 'This Year', '1–3 Years', etc.",2025-08-17
+Objective,"High-level strategic goal (e.g., 'Thought Leadership')",Connects to KRs / initiatives,2025-08-17
+Pillar,Sub-area of focus under an objective,Helps categorize projects or habits,2025-08-17
+Priority,Eisenhower or numeric (1–5 scale),Helps with sorting and filtering,2025-08-17
+Project,Concrete effort with tasks and deadlines,Executes part of an initiative,2025-08-17
+Task,Single-action step,Day-to-day execution,2025-08-17
+Initiative,Set of projects/actions to hit a Key Result,Links to one or more projects,2025-08-17
+System Zone,Writing / Fitness / Ops / Strategy,Optional: focus zone for execution blocks,2025-08-17
+Status,Idea / Not Started / In Progress / Complete,Useful for dashboards,2025-08-17
+Effort Tag,Push / Sprint / Maintenance,Optional: adds energy lens for planning,2025-08-17
+Scope,Quick Win / Deep Build / Legacy Goal,Optional: define impact size or intensity,2025-08-17

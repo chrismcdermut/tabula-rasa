@@ -1,0 +1,6 @@
+# Next Role, why us?
+
+Answer: I’m looking for a role that blends technical leadership with product-minded execution. I want to stay close to architecture and implementation, while working cross-functionally to shape product decisions that drive real business outcomes. I find it energizing to dig into business metrics—whether that’s revenue, costs, or NPS—and work backward to build systems that move those KPIs in the right direction.
+I’m also drawn to companies like Ashby that prioritize engineering excellence, developer velocity, and thoughtful user experience. Ashby stands out not just for the strength of its platform, but for its mission to improve one of the most broken but impactful systems: hiring. I’ve been reflecting deeply on the candidate and company journey—I’m even building my own job application CRM—and I’d be excited to contribute to software that makes finding mutual fit more seamless, respectful, and data-informed.
+Company: Untitled (https://www.notion.so/2316509554a78179a26cc430a4cffaa5?pvs=21)
+Question 1: What  are you looking for in your next role? Why Ashby?

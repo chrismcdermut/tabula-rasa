@@ -1,0 +1,8 @@
+# impact experience
+
+Answer: At Dun & Bradstreet, I led the re-architecture of the DUNS number registration flow—migrating from a WordPress-based marketing stack to a modern React frontend. This initiative preserved SEO equity while increasing user conversion by 30%, significantly improving lead generation for a mission-critical product line.
+At LegalShield, I managed a distributed engineering team and led the full replatforming of the company’s $250M/year checkout system. We modernized legacy infrastructure, improved performance and reliability, and introduced scalable architecture patterns that enabled A/B testing, experimentation, and sustainable growth across a revenue-critical flow.
+At Vacasa, I built the CX Tools team from the ground up, launching internal platforms that empowered 300+ customer service agents to support over 3 million guests annually. These tools reduced ticket resolution time by 20%, increased chat volume, and contributed to a lift in customer satisfaction during a period of rapid operational scaling.
+Across all of these roles, I’ve consistently led high-impact engineering initiatives that drove measurable outcomes—balancing technical rigor, product collaboration, and user experience at scale.
+Company: Untitled (https://www.notion.so/2316509554a78180a107d49cae738bb5?pvs=21)
+Question 1: Can you please describe the scope and impact of your work? What was the largest-scale project you've worked on? How did it impact the company/users? (money saved, time saved, scale, clients) Please qualify your impact. ***This is a critical question from the client.

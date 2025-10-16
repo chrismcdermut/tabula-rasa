@@ -1,0 +1,150 @@
+# terms-of-service.md
+
+# **Terms of Service**
+
+*Last updated: December 19, 2024*
+
+## **1. Agreement to Terms**
+
+These Terms of Service (“Terms”) govern your use of CareerOps services operated by Integrated Ventures LLC (“Company,” “we,” “us,” or “our”), a limited liability company organized under the laws of Colorado, United States.
+
+By accessing or using our website, Chrome browser extension, mobile applications, and related services (collectively, the “Services”), you agree to be bound by these Terms. If you do not agree to these Terms, you must not use our Services.
+
+## **2. Description of Services**
+
+CareerOps provides career management and job tracking tools designed to help users:
+
+- Track and manage job applications across multiple platforms
+- Analyze career opportunities and market insights
+- Connect with industry professionals and networks
+- Access career development resources and tools
+- Integrate with third-party productivity and career platforms
+
+Our Services include a Chrome browser extension, web-based dashboard, mobile applications, and API integrations with third-party services.
+
+## **3. User Accounts and Registration**
+
+To access certain features of our Services, you must create an account. When creating an account, you agree to:
+
+- Provide accurate, current, and complete information
+- Maintain and promptly update your account information
+- Maintain the security and confidentiality of your credentials
+- Accept responsibility for all activities under your account
+- Notify us immediately of any unauthorized use or security breaches
+- Ensure you are at least 18 years old or have parental consent
+
+## **4. Third-Party Accounts and Integrations**
+
+Our Services integrate with third-party platforms and services. By connecting these accounts, you acknowledge and agree to the following:
+
+- **Google Services:** We may access Google Calendar, Drive, Gmail, and other Google services with your permission to sync career-related data and provide integrated features.
+- **Notion:** We may sync job applications, career data, and professional information with your Notion workspace to enhance productivity.
+- **GitHub:** We may access your GitHub profile and repository data to provide career insights and portfolio analysis.
+- **Clerk:** We use Clerk for authentication services, and your use is subject to Clerk’s terms of service.
+
+You are responsible for maintaining the security of your third-party account credentials and for complying with the terms of service of these third-party platforms. We are not responsible for any actions taken by third-party services or for any data loss or security breaches occurring on their platforms.
+
+## **5. Acceptable Use and Prohibited Activities**
+
+You agree not to:
+
+- Use our Services for any illegal or unauthorized purpose
+- Violate any applicable laws, regulations, or third-party rights
+- Interfere with or disrupt our Services, servers, or networks
+- Attempt to gain unauthorized access to our systems or user accounts
+- Share your account credentials with others or allow unauthorized access
+- Use our Services to transmit harmful, malicious, or inappropriate content
+- Reverse engineer, decompile, or attempt to extract source code
+- Use automated systems to access our Services without permission
+- Collect or harvest user data without consent
+- Impersonate another person or entity
+
+## **6. Security and Account Protection**
+
+You are responsible for maintaining the security of your account and protecting your credentials:
+
+- Use strong, unique passwords for your CareerOps account
+- Enable two-factor authentication when available
+- Keep your OAuth tokens and third-party credentials secure
+- Log out of your account when using shared devices
+- Monitor your account for suspicious activity
+- Report security concerns immediately to our support team
+
+We implement industry-standard security measures, but you acknowledge that no method of transmission over the internet is 100% secure. You use our Services at your own risk.
+
+## **7. Intellectual Property Rights**
+
+Our Services and content are protected by intellectual property laws. You acknowledge that:
+
+- We retain all rights, title, and interest in our Services
+- You may not copy, modify, or distribute our content without permission
+- You may not reverse engineer our software or services
+- You may not remove or alter any copyright or proprietary notices
+- Our trademarks and branding are protected and may not be used without authorization
+
+You retain ownership of content you create using our Services, but grant us a license to use it for service provision and improvement.
+
+## **8. Privacy and Data Protection**
+
+Your privacy is important to us. Our collection and use of your personal information is governed by our [Privacy Policy](https://www.notion.so/privacy-policy), which is incorporated into these Terms by reference. By using our Services, you consent to the collection and use of your information as described in our Privacy Policy.
+
+## **9. Changes to Services**
+
+We reserve the right to modify, suspend, or discontinue any part of our Services at any time, with or without notice:
+
+- We may add, remove, or modify features and functionality
+- We may change pricing, subscription terms, or service levels
+- We may discontinue specific integrations or third-party connections
+- We may update our browser extension or mobile applications
+- We may modify our API endpoints or data formats
+
+We will provide reasonable notice for material changes that affect your use of our Services. Your continued use after such changes constitutes acceptance of the modified Services.
+
+## **10. Disclaimers and Limitations**
+
+Our Services are provided “as is” and “as available” without warranties of any kind. We do not guarantee:
+
+- That our Services will be uninterrupted or error-free
+- The accuracy or completeness of any information provided
+- That our Services will meet your specific requirements
+- That job opportunities or career advice will lead to employment
+- Compatibility with all third-party services or platforms
+- That our Services will be available in all locations
+
+To the maximum extent permitted by law, we disclaim all warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+## **11. Limitation of Liability**
+
+To the maximum extent permitted by applicable law, Integrated Ventures LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising from your use of our Services, even if we have been advised of the possibility of such damages. Our total liability to you for any claims shall not exceed the amount you paid us in the twelve months preceding the claim.
+
+## **12. Termination and Account Cancellation**
+
+You may terminate your account at any time by contacting our support team or using the account deletion feature in our Services. We may terminate or suspend your account:
+
+- For violation of these Terms
+- For fraudulent or illegal activity
+- For extended periods of inactivity
+- To comply with legal requirements
+- For any other reason with reasonable notice
+
+Upon termination, your right to use our Services ceases immediately. We may retain certain information as required by law or for legitimate business purposes.
+
+## **13. Changes to Terms**
+
+We may update these Terms from time to time. We will notify you of material changes by posting the updated Terms on our website and updating the “Last updated” date. Your continued use of our Services after changes become effective constitutes acceptance of the updated Terms. If you do not agree to the updated Terms, you must stop using our Services.
+
+## **14. Governing Law and Dispute Resolution**
+
+These Terms shall be governed by and construed in accordance with the laws of the State of Colorado, United States, without regard to conflict of law principles.
+
+Any disputes arising from these Terms or your use of our Services shall be resolved through binding arbitration in Denver, Colorado, in accordance with the rules of the American Arbitration Association, except where prohibited by law.
+
+## **15. Contact Information**
+
+If you have questions about these Terms of Service, please contact us:
+
+**Integrated Ventures LLC**
+
+Email: [legal@careerops.com](mailto:legal@careerops.com)
+
+Address: Colorado, United States
