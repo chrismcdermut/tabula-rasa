@@ -16,21 +16,6 @@ kanban-plugin: board
 	  Category: Exterior
 	  Estimate: 2h
 	  Parts Cost: ~$50
-- [ ] [[projects/snow-white/pmo/specs/future/install-apple-carplay-screen|Install Apple CarPlay screen]]
-	  Priority: IMPORTANT
-	  Category: Interior Electronics
-	  Estimate: 6h
-	  Parts Cost: ~$450
-- [ ] [[projects/snow-white/pmo/specs/future/install-rear-shocks|Install rear shocks]]
-	  Priority: IMPORTANT, URGENT
-	  Category: Suspension
-	  Estimate: 4h
-	  Parts Cost: ~$250
-- [ ] [[projects/snow-white/pmo/specs/future/install-2in-dobinson-lift-kit|Install 2" Dobinson lift kit]]
-	  Priority: IMPORTANT, URGENT
-	  Category: Suspension
-	  Estimate: 10h
-	  Parts Cost: ~$900
 - [ ] [[projects/snow-white/pmo/specs/future/replace-glow-plugs|Replace glow plugs]]
 	  Priority: IMPORTANT, URGENT
 	  Category: Engine
@@ -41,6 +26,11 @@ kanban-plugin: board
 	  Category: Heating & Cooling
 	  Estimate: 8h
 	  Parts Cost: ~$1,200
+- [ ] [[projects/snow-white/pmo/specs/future/install-apple-carplay-screen|Install Apple CarPlay screen]]
+	  Priority: IMPORTANT
+	  Category: Interior Electronics
+	  Estimate: 6h
+	  Parts Cost: ~$450
 - [ ] [[projects/snow-white/pmo/specs/future/install-roof-rack|Install roof rack]]
 	  Priority: IMPORTANT, URGENT
 	  Category: Exterior
@@ -144,6 +134,17 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[projects/snow-white/pmo/specs/future/install-rear-shocks|Install rear shocks]]
+	  Priority: IMPORTANT, URGENT
+	  Category: Suspension
+	  Estimate: 4h
+	  Parts Cost: ~$250
+- [ ] [[projects/snow-white/pmo/specs/future/install-2in-dobinson-lift-kit|Install 2" Dobinson lift kit]]
+	  Priority: IMPORTANT, URGENT
+	  Category: Suspension
+	  Estimate: 10h
+	  Parts Cost: ~$900
+- [ ] install caster correction
 
 
 
