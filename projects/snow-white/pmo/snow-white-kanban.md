@@ -6,16 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[projects/snow-white/pmo/specs/future/rebuild-ds-door-lock|Rebuild DS door lock]]
-	  Priority: IMPORTANT, URGENT
-	  Category: Doors & Locks
-	  Estimate: 2h
-	  Parts Cost: ~$80
-- [ ] [[projects/snow-white/pmo/specs/future/service-windshield-washer-system|Service windshield washer system]]
-	  Priority: IMPORTANT, URGENT
-	  Category: Exterior
-	  Estimate: 2h
-	  Parts Cost: ~$50
 - [ ] [[projects/snow-white/pmo/specs/future/replace-glow-plugs|Replace glow plugs]]
 	  Priority: IMPORTANT, URGENT
 	  Category: Engine
@@ -26,6 +16,11 @@ kanban-plugin: board
 	  Category: Heating & Cooling
 	  Estimate: 8h
 	  Parts Cost: ~$1,200
+- [ ] [[projects/snow-white/pmo/specs/future/install-diesel-fed-cab-heater|Install diesel-fed cab heater]]
+	  Priority: IMPORTANT
+	  Category: Heating & Cooling
+	  Estimate: 10h
+	  Parts Cost: ~$1,000
 - [ ] [[projects/snow-white/pmo/specs/future/install-apple-carplay-screen|Install Apple CarPlay screen]]
 	  Priority: IMPORTANT
 	  Category: Interior Electronics
@@ -36,11 +31,6 @@ kanban-plugin: board
 	  Category: Exterior
 	  Estimate: 3h
 	  Parts Cost: ~$600
-- [ ] [[projects/snow-white/pmo/specs/future/install-diesel-fed-cab-heater|Install diesel-fed cab heater]]
-	  Priority: IMPORTANT
-	  Category: Heating & Cooling
-	  Estimate: 10h
-	  Parts Cost: ~$1,000
 - [ ] [[projects/snow-white/pmo/specs/future/install-egt-gauge|Install EGT gauge]]
 	  Priority: IMPORTANT
 	  Category: Monitoring
@@ -61,16 +51,6 @@ kanban-plugin: board
 	  Category: Steering & Suspension
 	  Estimate: 12h
 	  Parts Cost: ~$400
-- [ ] [[projects/snow-white/pmo/specs/future/install-ds-window-switch|Install DS window switch]]
-	  Priority: IMPORTANT
-	  Category: Electrical
-	  Estimate: 1h
-	  Parts Cost: ~$60
-- [ ] [[projects/snow-white/pmo/specs/future/rebuild-ds-window-motor|Rebuild DS window motor]]
-	  Priority: IMPORTANT
-	  Category: Windows
-	  Estimate: 4h
-	  Parts Cost: ~$120
 - [ ] [[projects/snow-white/pmo/specs/future/rebuild-ps-window-motor|Rebuild PS window motor]]
 	  Priority: IMPORTANT
 	  Category: Windows
@@ -130,10 +110,31 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Fix inner door handle
+- [ ] [[projects/snow-white/pmo/specs/future/service-windshield-washer-system|Service windshield washer system]]
+	  Priority: IMPORTANT, URGENT
+	  Category: Exterior
+	  Estimate: 2h
+	  Parts Cost: ~$50
+- [ ] [[projects/snow-white/pmo/specs/future/install-ds-window-switch|Install DS window switch]]
+	  Priority: IMPORTANT
+	  Category: Electrical
+	  Estimate: 1h
+	  Parts Cost: ~$60
 
 
 ## Done
 
+- [ ] [[projects/snow-white/pmo/specs/future/rebuild-ds-door-lock|Rebuild DS door lock]]
+	  Priority: IMPORTANT, URGENT
+	  Category: Doors & Locks
+	  Estimate: 2h
+	  Parts Cost: ~$80
+- [ ] [[projects/snow-white/pmo/specs/future/rebuild-ds-window-motor|Rebuild DS window motor]]
+	  Priority: IMPORTANT
+	  Category: Windows
+	  Estimate: 4h
+	  Parts Cost: ~$120
 - [ ] [[projects/snow-white/pmo/specs/future/install-rear-shocks|Install rear shocks]]
 	  Priority: IMPORTANT, URGENT
 	  Category: Suspension
